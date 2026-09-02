@@ -22,13 +22,17 @@ I am using this repository to systematically organize what I learn and track my 
 ```text
 Aptitude-Preparation/
 │
-├── Quantitative-Aptitude/
-│   └── 01-Number-System/
-│
 ├── Logical-Reasoning/
 │   ├── 01-Calendar/
+│   │   └── README.md
+│   │
 │   ├── 02-Clocks/
+│   │   └── README.md
+│   │
 │   └── 03-Coding-Decoding/
+│
+├── Quantitative-Aptitude/
+│   └── 01-Number-System/
 │
 └── README.md
 ```

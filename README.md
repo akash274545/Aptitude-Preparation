@@ -17,79 +17,23 @@ I am using this repository to systematically organize what I learn and track my 
 
 ---
 
-## 📖 Topics Covered
-
-### 🔢 Quantitative Aptitude
-
-* Number System
-* HCF & LCM
-* Averages
-* Percentages
-* Ratio & Proportion
-* Profit & Loss
-* Simple Interest
-* Compound Interest
-* Time & Work
-* Pipes & Cisterns
-* Time, Speed & Distance
-* Problems on Trains
-* Boats & Streams
-* Mixtures & Allegations
-* Partnership
-* Probability
-* Permutation & Combination
-* Data Interpretation
-* And more...
-
-### 🧠 Logical Reasoning
-
-* Number Series
-* Coding-Decoding
-* Blood Relations
-* Direction Sense
-* Seating Arrangement
-* Syllogism
-* Analogy
-* Classification
-* Puzzles
-* And more...
-
-### 📝 Verbal Ability
-
-* Grammar
-* Vocabulary
-* Synonyms & Antonyms
-* Sentence Correction
-* Reading Comprehension
-* Para Jumbles
-* And more...
-
----
-
 ## 📂 Repository Structure
 
 ```text
 Aptitude-Preparation/
 │
 ├── Quantitative-Aptitude/
-│   ├── 01-Number-System/
-│   ├── 02-HCF-LCM/
-│   ├── 03-Averages/
-│   ├── 04-Percentage/
-│   ├── 05-Profit-Loss/
-│   ├── 06-Ratio-Proportion/
-│   └── ...
+│   └── 01-Number-System/
 │
 ├── Logical-Reasoning/
-│
-├── Verbal-Ability/
-│
-├── Practice-Questions/
-│
-├── Mistakes-and-Learnings/
+│   ├── 01-Calendar/
+│   ├── 02-Clocks/
+│   └── 03-Coding-Decoding/
 │
 └── README.md
 ```
+
+New topics will be added as I learn and practice them.
 
 ---
 
@@ -115,15 +59,30 @@ The repository contains my **own understanding, notes, solutions, and practice**
 
 ---
 
-## 📈 Progress
+## 📖 Topics Studied
 
-| Category              | Status         |
-| --------------------- | -------------- |
-| Quantitative Aptitude | 🟡 In Progress |
-| Logical Reasoning     | 🔴 Not Started |
-| Verbal Ability        | 🔴 Not Started |
-| Practice Questions    | 🟡 In Progress |
-| Mistakes & Revision   | 🟡 In Progress |
+### 🧠 Logical Reasoning
+
+* ✅ Calendar
+* ✅ Clocks
+* 🟡 Coding-Decoding — Currently Learning
+
+### 🔢 Quantitative Aptitude
+
+* ✅ Number System
+
+---
+
+## 📊 Current Progress
+
+| Section               | Topic           | Status                |
+| --------------------- | --------------- | --------------------- |
+| Logical Reasoning     | Calendar        | ✅ Completed           |
+| Logical Reasoning     | Clocks          | ✅ Completed           |
+| Logical Reasoning     | Coding-Decoding | 🟡 Currently Learning |
+| Quantitative Aptitude | Number System   | ✅ Completed           |
+
+I will continue adding new topics as I learn and practice them.
 
 ---
 

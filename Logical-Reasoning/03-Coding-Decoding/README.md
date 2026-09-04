@@ -1110,7 +1110,6 @@ These practice questions are transcribed from the uploaded **Coding & Decoding P
 
 ---
 # 📂 Folder Structure
-
 ```
 Logical-Reasoning/
 │
@@ -1120,12 +1119,10 @@ Logical-Reasoning/
 │
 └── 03-Coding-Decoding/
     │
-    ├── Coding Decoding (1).pdf
-    ├── Coding Decoding (2).pdf
+    ├── Part-1.pdf
+    ├── Part-2.pdf
     └── README.md
-
 ```
-
 ---
 
 ## 🎯 Goal

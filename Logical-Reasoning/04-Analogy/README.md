@@ -58,6 +58,17 @@ This folder contains my **Analogy** notes, concepts, types of relationships, met
 - Sphygmomanometer : Blood Pressure
 - Galvanometer : Small Electric Current
 
+  
+
+
+## 🖼️ Visual Revision — Important Instruments
+
+Quick revision charts for important instruments and what they measure.
+
+- 📌 [View Important Instruments 1–26](Pic-1.png)
+- 📌 [View Important Instruments 27–45](Pic-2.png)
+
+
 ### 2. Quantity and Unit
 - Length : Metre
 - Mass : Kilogram
@@ -592,6 +603,8 @@ Logical-Reasoning/
 └── 04-Analogy/
     │
     ├── Part-1.pdf
+    ├── Pic-1.png
+    ├── Pic-2.png
     └── README.md
 
 ```

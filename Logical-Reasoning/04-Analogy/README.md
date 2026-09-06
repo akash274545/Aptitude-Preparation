@@ -588,6 +588,206 @@ Panda : Bamboo :: Koala : ?
 Answer: **Eucalyptus**
 
 ---
+
+## 📝 Practice Questions — Part 2
+
+### Question 9
+
+```text
+Pen : Cob :: Swan : ?
+```
+Options:
+
+- A) Adult : Infant
+- B) Sorceress : Sorcerer
+- C) Banyan : Tree
+- D) Pig : Piglet
+```
+ Answer: B) Sorceress : Sorcerer
+ ```
+
+### Question 10
+```
+Cloth : Closet :: Gun : ?
+```
+Answer: ***Armoury***
+
+### Question 11
+Sparrow : Tree :: ?
+
+Options:
+
+- A) Cow : Beach
+- B) Fish : Water
+- C) Owl : Night
+- D) Rabbit : Sand
+```
+Answer: B) Fish : Water
+```
+### Question 12
+```
+Hen : Coop :: ?
+```
+Options:
+
+- A) Horse : Field
+- B) Bee : Hive
+- C) Elephant : Leaves
+- D) Cow : Hay
+```
+Answer: B) Bee : Hive
+```
+### Question 13
+```
+Knife : Cut :: Ladle : ?
+```
+***Answer: Serve***
+
+### Question 14
+```
+Acquired : Received
+```
+Relationship: Synonyms
+
+Options:
+
+- A) Bitter : Sweet
+- B) Collected : Distributed
+- C) Arrival : Departure
+- D) Short : Small
+
+Answer: D) Short : Small
+
+### Question 15
+```
+Hibiscus : Flower :: ?
+```
+Options:
+
+- A) Pumpkin : Fruit
+- B) Beans : Protein
+- C) Leaf : Green
+- D) Tree : Trunk
+
+Answer: A) Pumpkin : Fruit
+
+### Question 16
+```
+Cricket : LBW :: Chess : ?
+```
+Answer: Checkmate
+
+### Question 17
+```
+Complicated : Simple :: Shrink : ?
+```
+Relationship: Antonyms
+
+Answer: Expand
+
+### Question 18
+```
+Worried : Anxious :: At Ease : ?
+```
+Relationship: Synonyms
+
+Answer: Calm
+
+### Question 19
+```
+Physiology : Human Body :: ?
+```
+Options:
+
+- A) Ornithology : Insect
+- B) Entomology : Birds
+- C) Anthropology : Dinosaur
+- D) Petrology : Rocks
+
+Answer: D) Petrology : Rocks
+
+### Question 20
+```
+Master : Disciple :: ?
+```
+Options:
+
+- A) Coach : Player
+- B) Cup : Plate
+- C) Tea : Coffee
+- D) Doctor : Medicine
+
+Answer: A) Coach : Player
+
+### Question 21
+```
+Fix : Break
+```
+Relationship: Antonyms
+
+Options:
+
+- A) Anger : Forage
+- B) Sweet : Bitter
+- C)Lazy : Inert
+- D) Start : Begin
+
+Answer: B) Sweet : Bitter
+
+### Question 22
+```
+Riyal : Saudi Arabia :: ?
+```
+Relationship: Currency
+
+Options:
+
+- A) Lira : Armenia
+- B) Peso : Germany
+- C) Lira : Turkey
+- D) Mexico : Peso
+
+Answer: C) Lira : Turkey
+
+### Question 23
+```
+Loud : Boring
+```
+Relationship: Antonyms
+
+Options:
+
+- A) Happy : Joyous
+- B) Stern : Strict
+- C) Exciting : Boring
+- D) Sharp : Edged
+
+Answer: C) Exciting : Boring
+
+### Question 24
+```
+Chickenpox : Virus :: ?
+```
+Options:
+
+- A) Anthrax : Viruses
+- B) Anthrax : Parasites
+- C) Anthrax : Fungus
+- D) Anthrax : Bacteria
+
+Answer: D) Anthrax : Bacteria
+
+### Question 25
+```
+Increase : Diminish :: Smile : ?
+```
+Relationship: Antonyms
+
+***Answer: Frown***
+
+---
+
+### 📁  Folder structure
 ```
 Logical-Reasoning/
 │
@@ -601,8 +801,8 @@ Logical-Reasoning/
 │   └── README.md
 │
 └── 04-Analogy/
-    │
     ├── Part-1.pdf
+    ├── Part-2.pdf
     ├── Pic-1.png
     ├── Pic-2.png
     └── README.md
@@ -627,7 +827,9 @@ Select the correct answer
 
 ## 📌 Status
 
-**Analogy — Part 1 Completed ✅**
+**Analogy — Part 1 + Part 2 Completed ✅**
 
 **Practice Questions: Q1–Q8**
+
+**Practice Questions: Q1–Q25**
 

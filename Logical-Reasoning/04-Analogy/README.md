@@ -541,6 +541,8 @@ Options:
 - A) Air : Volume
 - B) Voltmeter : Voltage
 
+- Ans: B
+
 ### Question 2
 ```text
 Hands : ? :: Feet : ?
@@ -562,6 +564,8 @@ Options:
 - B) Nun : Convent
 - C) Jar : Jado
 - D) Horse : Den
+
+  Ans: B
 
 ### Question 5
 ```text

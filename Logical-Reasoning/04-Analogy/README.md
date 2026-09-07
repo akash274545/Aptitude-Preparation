@@ -541,7 +541,7 @@ Options:
 - A) Air : Volume
 - B) Voltmeter : Voltage
 
-- Ans: B
+- Ans: B) Voltmeter : Voltage
 
 ### Question 2
 ```text

@@ -565,7 +565,7 @@ Options:
 - C) Jar : Jado
 - D) Horse : Den
 
-  Ans: B
+  Ans: B) Nun:Convent
 
 ### Question 5
 ```text

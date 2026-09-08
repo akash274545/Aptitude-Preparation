@@ -1096,7 +1096,7 @@ Select the correct answer
 
 ## 📌 Status
 
-**Analogy — Part 1 + Part 2 Completed ✅**
+**Analogy — Part 1 + Part 2 + Part 3 Completed ✅**
 
 **Practice Questions: Q1–Q8**
 

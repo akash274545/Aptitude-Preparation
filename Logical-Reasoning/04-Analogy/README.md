@@ -835,5 +835,5 @@ Select the correct answer
 
 **Practice Questions: Q1–Q8**
 
-**Practice Questions: Q1–Q25**
+**Practice Questions: Q9–Q25**
 

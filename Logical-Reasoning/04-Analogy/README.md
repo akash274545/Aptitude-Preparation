@@ -791,6 +791,270 @@ Relationship: Antonyms
 
 ---
 
+## 📝 Practice Questions — Part 3
+
+### Question 26
+
+```text
+Shield : Guard :: Spanner : ?
+```
+
+**Answer: Grip**
+
+### Question 27
+
+```text
+Pediatrician : Children :: Dermatologist : ?
+```
+
+**Answer: Skin**
+
+### Question 28
+
+```text
+Force : Newton :: Current : ?
+```
+
+**Answer: Ampere**
+
+### Question 29
+
+```text
+Lion : Forest :: ?
+```
+
+Options:
+- A) Bee : Honey
+- B) Shark : Ocean
+- C) Powder : Honey
+- D) Sorrow : Love
+
+**Answer: B) Shark : Ocean**
+
+### Question 30
+
+```text
+Bird : Nest :: ?
+```
+
+Options:
+- A) Goat : Grass
+- B) Tiger : Kennel
+- C) Ant : Sugar
+- D) Cattle : Barn
+
+**Answer: D) Cattle : Barn**
+
+### Question 31
+
+```text
+Russia : Ruble :: Myanmar : ?
+```
+
+Options:
+- A) Dirham (UAE)
+- B) Baht (Thailand)
+- C) Kyat
+- D) Peseta (Spain)
+
+**Answer: C) Kyat**
+
+### Question 32
+
+```text
+Pen : Author :: Axe : ?
+```
+
+**Answer: Woodcutter**
+
+### Question 33
+
+```text
+Tea : Cup :: ? : ?
+```
+
+Options:
+- A) Paper : Pulp
+- B) Food : Plate
+- C) Milk : Drink
+- D) Glass : Water
+
+**Answer: B) Food : Plate**
+
+### Question 34
+
+```text
+Dog : Four :: Parrot : ?
+```
+
+**Answer: Two**
+
+### Question 35
+
+```text
+Editor : Newspaper :: ?
+```
+
+Options:
+- A) Food : Chef
+- B) Design : Architect
+- C) Poem : Poet
+- D) Farmer : Crop
+
+**Answer: D) Farmer : Crop**
+
+### Question 36
+
+```text
+Aquarium : Fish :: ?
+```
+
+Options:
+- A) Animals : Zoo
+- B) Wine : Cellar
+- C) Hive : Honeybee
+- D) Aeroplane : Hanger
+
+**Answer: C) Hive : Honeybee**
+
+### Question 37
+
+```text
+Yuan : China :: Yen : ?
+```
+
+Options:
+- A) Japan
+- B) Sri Lanka
+- C) Pakistan
+- D) United Kingdom
+
+**Answer: A) Japan**
+
+### Question 38
+
+```text
+Dog : Bitch :: Bull : ?
+```
+
+**Answer: Cow**
+
+### Question 39
+
+```text
+Pen : Write :: Spade : ?
+```
+
+**Answer: Dig**
+
+### Question 40
+
+```text
+Wall : Brick :: Sack : ?
+```
+
+**Answer: Jute**
+
+### Question 41
+
+```text
+Nairobi : Kenya :: Oslo : ?
+```
+
+**Answer: Norway**
+
+### Question 42
+
+```text
+Horse : Hoof :: Eagle : ?
+```
+
+**Answer: Claw**
+
+### Question 43
+
+```text
+Melt : Liquid :: Freeze : ?
+```
+
+**Answer: Solid**
+
+### Question 44
+
+```text
+Dawdle : Tarry :: Wrinkle : ?
+```
+
+**Relationship: Synonyms**
+
+**Answer: Line (to fold)**
+
+### Question 45
+
+```text
+Speedometer : Speed :: Compass : ?
+```
+
+**Answer: Direction**
+
+### Question 46
+
+```text
+Eider : ? :: Gender : Tree
+```
+
+**Answer: Ducks**
+
+### Question 47
+
+```text
+Examination : Pass
+```
+
+Options:
+- A) Machine : Fault
+- B) Fig : Win
+- C) Match : Football
+- D) Competition : Poem
+
+**Answer: B) Fig : Win**
+
+### Question 48
+
+```text
+Mountain : Hill :: Tree : ?
+```
+
+**Answer: Shrub**
+
+### Question 49
+
+```text
+King : Palace :: Eskimo : ?
+```
+
+**Answer: Igloo**
+
+### Question 50
+
+```text
+Pen : Horse :: Control Panel : ?
+```
+
+**Answer: Plane**
+
+---
+
+## 📌 Practice Progress
+
+```text
+Part 1 → Q1–Q8
+Part 2 → Q9–Q25
+Part 3 → Q26–Q50
+------------------
+Total   → Q1–Q50 ✅
+```
+
 ### 📁  Folder structure
 ```
 Logical-Reasoning/
@@ -807,6 +1071,7 @@ Logical-Reasoning/
 └── 04-Analogy/
     ├── Part-1.pdf
     ├── Part-2.pdf
+    ├── Part-3.pdf
     ├── Pic-1.png
     ├── Pic-2.png
     └── README.md
@@ -836,4 +1101,6 @@ Select the correct answer
 **Practice Questions: Q1–Q8**
 
 **Practice Questions: Q9–Q25**
+
+**Practice Questions: Q25–Q50**
 

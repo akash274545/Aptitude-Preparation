@@ -207,10 +207,71 @@ Focus:
 3. Analysis — Mentors
 
 ---
-## Part-2
+## 📚 Part 2 — Session 4
+
+### Visual Comprehension
+
+The new session focuses on **Visual Comprehension** and how to start English preparation systematically. fileciteturn24file0L2-L5
+
+### How to Start English Preparation
+
+#### 1. Vocabulary — Basic
+
+Build a foundation of **2000 basic words**.
+
+```text
+2000 Basic Words
+        ↓
+Ratta / Memorisation
+        ↓
+15 Days
 ```
 
+#### 2. Novelette
+
+After the basic vocabulary stage:
+
+```text
+Novelette
+    ↓
+Class 4 / 5 / 6 / 7
+    ↓
+Sudha Murty Books
 ```
+
+The notes also mention the **SSA-Main Telegram Channel** and school-level textbooks. fileciteturn24file0L17-L17
+
+### Daily English Study
+
+1. **8 AM – 9 AM** → English online class (Live)
+2. **6 PM – 7 PM** → Telegram quizzes
+3. **Every Friday** → Assignment
+4. **Newspaper Reading** → Gradually increase reading time
+
+### Newspaper Reading Progression
+
+```text
+20 min
+  ↓
+30 min
+  ↓
+40 min
+  ↓
+1 hour
+```
+
+### English Books
+
+```text
+English Books
+      ↓
+ ┌────┼────┐
+ ↓    ↓    ↓
+Class  Rough  Assignment
+Work   Book
+```
+
+---
 
 ## 🎯 Overall Goal
 

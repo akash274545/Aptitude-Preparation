@@ -211,7 +211,7 @@ Focus:
 
 ### Visual Comprehension
 
-The new session focuses on **Visual Comprehension** and how to start English preparation systematically. fileciteturn24file0L2-L5
+The new session focuses on **Visual Comprehension** and how to start English preparation systematically.
 
 ### How to Start English Preparation
 
@@ -239,7 +239,7 @@ Class 4 / 5 / 6 / 7
 Sudha Murty Books
 ```
 
-The notes also mention the **SSA-Main Telegram Channel** and school-level textbooks. fileciteturn24file0L17-L17
+The notes also mention the **SSA-Main Telegram Channel** and school-level textbooks.
 
 ### Daily English Study
 
@@ -263,12 +263,12 @@ The notes also mention the **SSA-Main Telegram Channel** and school-level textbo
 ### English Books
 
 ```text
-English Books
-      ↓
- ┌────┼────┐
- ↓    ↓    ↓
-Class  Rough  Assignment
-Work   Book
+     English Books
+           ↓
+ ┌─────────┼──────────┐
+ ↓         ↓          ↓
+Class    Rough     Assignment
+Work     Book
 ```
 
 ---

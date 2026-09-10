@@ -299,8 +299,12 @@ Better Exam Performance
 
 ## 📌 Status
 
-**Verbal Ability Q&A / Study Plan — Part 1 Completed ✅**
+**Verbal Ability Q&A / Study Plan — Part 1 + Part 2 Completed ✅**
 
+**Sessions Covered:**
+- Session 1–3 → Part 1
+- Session 4 → Part 2
+  
 **Areas Covered:**
 
 - English syllabus
@@ -311,4 +315,13 @@ Better Exam Performance
 - Newspaper reading
 - Understanding
 - Study plan
+
+**Focus Added in Part 2:**
+- Visual Comprehension
+- Basic 2000-word vocabulary plan
+- Novelette / beginner reading
+- Daily English online class
+- Telegram quizzes
+- Friday assignments
+- Newspaper reading progression
 

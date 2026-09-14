@@ -700,6 +700,205 @@ Select the correct option
 
 ---
 
+## 📝 Advanced Practice Set (HW — Questions 11 to 43)
+### Question 11
+
+    Statement: W = X, W ≤ R, A ≥ B, B ≥ X
+
+    Conclusions: I. A ≥ W (T) | II. B ≥ W (T) | III. R > X (T) | IV. X ≤ R (T)
+
+### Question 12
+
+    Statement: T > O, S ≥ R, S ≥ O, R ≥ U
+
+    Conclusions: I. T > S (S) | II. O > R (T) | III. T ≥ U (T) | IV. O ≤ U (F)
+
+### Question 13
+
+    Statement: B ≥ U, E ≥ U, F > V, L ≥ V
+
+    Conclusions: I. F ≥ B (T) | II. F ≥ L (T) | III. U > V (T) | IV. B ≤ E (T)
+
+### Question 14
+
+    Statement: R ≤ N, N = M, M ≥ P, G ≥ M, M > O
+
+    Conclusions: I. R ≤ M (T) | II. N ≥ P (T) | III. G ≤ M (F) | IV. P < O (T)
+
+### Question 15
+
+    Statement: N ≥ S, R > P, P = W, S ≥ T, T ≥ R
+
+    Conclusions: I. S > N (F) | II. P < N (T) | III. P = W (T) | IV. T < P (F)
+
+### Question 16
+
+    Statement: A > B ≥ C ≥ D, M ≥ E, D > E = F ≥ G, H = G ≥ I
+
+    Conclusions: I. F ≥ I (T) | II. M > G (T) | III. C ≥ F (F) | IV. A > E (T)
+
+### Question 17
+
+    Statement: P = Q ≥ R, T < U, A = T, A > E, T ≥ S > R
+
+    Conclusions: I. R ≤ U (F) | II. S = T (F) | III. R ≤ A (F) | IV. P > E (T)
+
+### Question 18
+
+    Statement: M ≤ N < P, R = S, P < R, U ≤ M, T < M
+
+    Conclusions: I. M < P (T) | II. U < P (T) | III. S > M (T) | IV. T < N (T)
+
+### Question 19
+
+    Statement: U ≤ V < W, W > X, X = Y, Y ≥ Z, S ≥ V, A < U
+
+    Conclusions: I. A ≥ S (F) | II. U < W (T) | III. Z < T (T) | IV. Y > B (F)
+
+### Question 20
+
+    Statement: A = O, A > X, A ≤ R, T > R, O ≥ P
+
+    Conclusions: I. R > X (T) | II. P ≤ T (F) | III. Y ≤ O (T) | IV. A > P (T)
+
+### Question 21
+
+    Statement: C > Y, C ≥ D ≥ E, C < B, X = C, A ≤ B, E = F > G
+
+    Conclusions: I. D > Y (T) | II. Z > B (F) | III. D > G (T) | IV. A ≤ C (T)
+
+### Question 22
+
+    Statement: U > V < Z, V ≤ W, X ≥ Y, A > Y, B < X, B < Y
+
+    Conclusions: I. W ≥ Y (T) | II. B < Z (T) | III. U > B (T) | IV. X > A (F)
+
+### Question 23
+
+    Statement: L > M, N ≤ M, L < K, N ≤ O, P = O, Q ≤ R, R > S
+
+    Conclusions: I. P > M (T) | II. K ≥ N (F) | III. O ≥ M (T) | IV. Q ≤ S (F)
+
+### Question 24
+
+    Statement: X > B, B > A, B ≤ C, P ≥ C, P ≤ E, D ≥ J, F = E, F ≥ G, G = I
+
+    Conclusions: I. F > J (T) | II. C > F (T) | III. F ≥ B (F) | IV. X > I (T)
+
+### Question 25
+
+    Statement: L ≥ H, M ≥ N, N ≥ O, O ≥ P, P ≥ L, P = R, Q ≤ S, S > T, U = O
+
+    Conclusions: I. S ≥ N (F) | II. O ≤ L (T) | III. U < T (F) | IV. P = L (T)
+
+### Question 26
+
+    Statement: P > Q ≥ R ≥ S, P < T > U ≥ V
+
+    Conclusions: I. T > S (F) | II. U ≤ P (F) | III. T > R (T) | IV. T < R (F)
+
+### Question 27
+
+    Statement: B ≤ A, X = B, X > Z, D ≤ O
+
+    Conclusions: I. B ≤ P (F) | II. O = A (F) | III. A ≥ X (T) | IV. O ≥ B (F)
+
+### Question 28
+
+    Statement: W < V, T ≤ V, T > R, R = M
+
+    Conclusions: I. V > R (T) | II. M < T (T) | III. M < V (T) | IV. W > M (F)
+
+### Question 29
+
+    Statement: D ≥ K, K = T, M ≤ T, V ≤ M
+
+    Conclusions: I. T ≥ D (T) | II. K ≤ M (T) | III. V > T (F) | IV. V ≤ D (T)
+
+### Question 30
+
+    Statement: P < Q < R > S, P > T < U ≤ V
+
+    Conclusions: I. T > S (F) | II. U ≤ P (F) | III. T < S (F) | IV. T < R (T)
+
+### Question 31
+
+    Statement: K > J, K ≤ L, L ≥ G, N ≥ N, M ≥ L, O = P, L ≥ O
+
+    Conclusions: I. O ≤ N (F) | II. J < P (T) | III. K ≥ N (F) | IV. L ≥ P (T)
+
+### Question 32
+
+    Statement: L = M, M > N, L ≤ H, G ≥ I, G = N, J ≤ N, J ≤ K
+
+    Conclusions: I. M < K (F) | II. H = J (F) | III. I ≤ L (F) | IV. M > J (T)
+
+### Question 33
+
+    Statement: Q ≥ P, Q ≥ R, R ≥ S, T ≤ S, T ≤ M, N ≥ M
+
+    Conclusions: I. Q ≥ T (T) | II. N ≥ S (T) | III. R ≥ T (T) | IV. Q ≥ N (F)
+
+### Question 34
+
+    Statement: A > B, B ≤ C, D ≤ C, E ≤ D, E ≤ F, F ≤ G, G ≥ A
+
+    Conclusions: I. A ≤ D (T) | II. H ≤ E (F) | III. F ≤ C (F) | IV. D ≤ G (T)
+
+### Question 35
+
+    Statement: B = A, B > C, D = C, E > D, E = W, W ≥ X, Y ≤ X
+
+    Conclusions: I. B ≥ E (F) | II. A > C (T) | III. Y < E (T) | IV. W ≥ Y (T)
+
+### Question 36
+
+    Statement: R ≥ S, T ≥ E, F ≥ E, U ≥ W
+
+    Conclusions: I. R ≥ F (F) | II. U ≥ W (T) | III. T ≥ R (F) | IV. S ≥ E (F)
+
+### Question 37
+
+    Statement: P ≤ T, R = T, O > K, O ≤ P, R ≥ O
+
+    Conclusions: I. P > R (F) | II. P ≥ R (T) | III. O < T (T) | IV. K < T (T)
+
+### Question 38
+
+    Statement: V ≤ S, Y ≥ Z, V ≤ W, X = Y, W < X
+
+    Conclusions: I. S ≥ Z (F) | II. W > Z (F) | III. V ≤ Y (T) | IV. W < Z (F) | V. P < K (F)
+
+### Question 39
+
+    Statement: B > A, D ≤ C, M ≤ P, D = P, M > B
+
+    Conclusions: I. C > A (T) | II. M ≤ C (T) | III. D > A (T) | IV. P > A (T)
+
+### Question 40
+
+    Statement: A > X, B ≤ S, P = M, M ≥ A, A ≥ B
+
+    Conclusions: I. B ≤ X (F) | II. P > B (T) | III. P ≥ X (T) | IV. S > X (F)
+
+### Question 41
+
+    Statement: A > B, X = O, D ≤ X, O ≤ A, X ≤ P
+
+    Conclusions: I. A > O (T) | II. D < P (T) | III. P > R (T) | IV. B > P (F)
+
+### Question 42
+
+    Statement: A ≥ B > C ≥ D ≥ E, B ≥ F > C, I ≤ K ≤ E
+
+    Conclusions: I. A > C (T) | II. B > C (T) | III. C ≤ F (F) | IV. D ≥ K (T) | V. B < K (F)
+
+### Question 43
+
+    Statement: R ≥ P, P = S, S > T, V < U, U = T, T ≥ C
+
+    Conclusions: I. R > C (T) | II. P > U (T) | III. R ≤ U (F) | IV. P ≥ T (T)
+---
 ## 🧠 Quick Revision
 
 ```text
@@ -747,18 +946,14 @@ Select the correct option
 
 ## 📌 Status
 
-**Inequalities — 5 Sessions Completed ✅**
+**Inequalities — Sessions & Homework Completed ✅**
 
 **Topics Covered:**
 
-- Inequality fundamentals
-- Basic and composite symbols
-- Chain method
-- Gate method
-- At least one relationship
-- Continuous relationship
+- Inequality fundamentals, Basic and composite symbols
+- Chain method & Gate method
+- At least one relationship & Continuous relationship
 - Equality relationships
 - Statement and conclusion questions
-- Exam-level practice
-- Direction-based questions 1–25
-- Additional questions 1–10
+- Exam-level practice & Direction-based questions 1–25
+- Additional questions (1–10) & Advanced HW Set (11–43)

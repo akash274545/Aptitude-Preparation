@@ -1135,8 +1135,6 @@ The alternate positions and their relationships are used to find the answer.
 
 I solved the following **Letter Analogy questions from Q51 to Q100** in this session.
 
-The following questions are from my notebook, **Q51–Q100**.
-
 
 ### Question 51
 ```text
@@ -1893,16 +1891,24 @@ Options:
 Relationship: Difference between alphabet positions
 
 Answer: **B) 2**
----
-
-
-
-
-
-
 
 ---
 
+## 📌 Revision Method
+
+```text
+Read the first letter pair
+        ↓
+Write alphabet positions
+        ↓
+Identify the operation
+        ↓
+Check the relationship using every letter
+        ↓
+Apply the same rule to the second pair
+        ↓
+Verify the answer
+```
 
 ---
 ## 📌 Practice Progress
@@ -1911,8 +1917,9 @@ Answer: **B) 2**
 Part 1 → Q1–Q8
 Part 2 → Q9–Q25
 Part 3 → Q26–Q50
+Part 4 → Q51–Q100
 ------------------
-Total   → Q1–Q50 ✅
+Total   → Q1–Q100 ✅
 ```
 
 ### 📁  Folder structure
@@ -1932,6 +1939,7 @@ Logical-Reasoning/
     ├── Part-1.pdf
     ├── Part-2.pdf
     ├── Part-3.pdf
+    ├── Part-4.pdf
     ├── Pic-1.png
     ├── Pic-2.png
     └── README.md
@@ -1956,11 +1964,13 @@ Select the correct answer
 
 ## 📌 Status
 
-**Analogy — Part 1 + Part 2 + Part 3 Completed ✅**
+**Analogy — Part 1 + Part 2 + Part 3 + Part-4 Completed ✅**
 
 **Practice Questions: Q1–Q8**
 
 **Practice Questions: Q9–Q25**
 
 **Practice Questions: Q25–Q50**
+
+**Practice Questions: Q51–Q100**
 

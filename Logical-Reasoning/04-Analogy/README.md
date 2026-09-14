@@ -1137,762 +1137,939 @@ I solved the following **Letter Analogy questions from Q51 to Q100** in this ses
 
 
 ### Question 51
+
 ```text
 RV : TE :: EL : ?
 ```
 
 Options:
-- A) DP
-- B) GU
-- C) CLU
-- D) HC
+- a) DP
+- b) GO
+- c) LU
+- d) NC
 
-Relationship: Letter-position analogy
+Relationship: Letter Analogy
 
-Answer: **B) GU**
+**Answer: b) GO**
+
+---
 
 ### Question 52
+
 ```text
-ZR : XK :: ? : WJ
+ZM : XK :: ? : WJ
 ```
 
 Options:
-- A) RJ
-- B) UH
-- C) XJ
-- D) YL
+- a) RJ
+- b) UH
+- c) XJ
+- d) YL
 
-Relationship: Letter-position analogy
+Relationship: Letter Analogy
 
-Answer: **D) YL**
+**Answer: d) YL**
+
+---
 
 ### Question 53
+
 ```text
-ATN?N? : PTW? :: ?
+AJN : DMQ :: PTW : ?
 ```
 
 Options:
-- A) JTE
-- B) SW2
-- C) MZW
-- D) S?M
+- a) ITE
+- b) SWZ
+- c) MZW
+- d) SOH
 
-Relationship: Letter-position analogy
+Relationship: Letter Analogy
 
-Answer: **B) SW2**
+**Answer: b) SWZ**
 
-> Note: The handwritten letters in this question are unclear in the uploaded image. Please verify the exact wording from the notebook.
+---
 
 ### Question 54
+
 ```text
-PRACTISE : AC EPRST :: TECHNOLOGY : ?
+PRACTISE : ACEIPRST :: TECHNOLOGY : ?
 ```
 
 Options:
-- A) HCETONYGLO
-- B) C E G H L N O P T Y
-- C) CE GHNOATY
-- D) CEC LH OONTY
+- a) HCETONYGLO
+- b) CEGHLNOPTY
+- c) CEGHLNOOTY
+- d) CEGLHOONTY
 
-Relationship: Arranging letters in ascending alphabetical order
+Relationship: Letter Arrangement Analogy
 
-Answer: **B) CEGHLNOPTY**
+**Answer: c) CEGHLNOOTY**
+
+---
 
 ### Question 55
+
 ```text
-GUITAR : TGNEKWS :: REPORTS : ?
+QUICKER : TGMEKWS :: REPORTS : ?
 ```
 
 Options:
-- A) UVTPRLT
-- B) VU?R?S
-- C) USV?RAT
-- D) UVTR?HT
+- a) UVTQRGT
+- b) VUTQRGS
+- c) USVQRGT
+- d) UVTRRHT
 
-Relationship: Letter-position analogy
+Relationship: Letter Analogy
 
-Answer: **A) UVTPRLT**
+**Answer: a) VUTQRGT**
+
+---
 
 ### Question 56
+
 ```text
-AC : CI :: CH : ?
+AC : CI :: GH : ?
 ```
 
 Options:
-- A) JK
-- B) UX
-- C) UU
-- D) UV
+- a) JK
+- b) UX
+- c) UU
+- d) UV
 
-Relationship: Alphabet-position analogy
+Relationship: Letter Analogy
 
-Answer: **B) UX**
+**Answer: b) UX**
+
+---
 
 ### Question 57
+
 ```text
-AFK : FJO :: PUZ : ?
+AFK : EJO :: PUZ : ?
 ```
 
 Options:
-- A) TXE
-- B) T?N
-- C) JUUM
-- D) USC
+- a) TXE
+- b) TYD
+- c) UOM
+- d) USC
 
-Relationship: Letter-position analogy
+Relationship: Letter Analogy
 
-Answer: **A) TXE**
+**Answer: b) TYD**
+
+---
 
 ### Question 58
+
 ```text
-MAX : VPC :: CTL : HPX : ?
+MGX : VPG :: TZC : CIL :: HPX : ?
 ```
 
 Options:
-- A) PXF
-- B) P?Q
-- C) Q?A
-- D) BYQ
+- a) PXF
+- b) QZG
+- c) RZG
+- d) QYG
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) Q?A**
+**Answer: d) QYG**
 
-> Note: Some characters in the options are unclear in the handwritten page.
+Exam: SSC CGL, 17 July 2023
+
+---
 
 ### Question 59
+
 ```text
-PLANT : VPCNR :: STOMP : R?V?U :: ROADS : ?
+PLANT : VPCNR :: STOMP : ROQVU :: BOARD : ?
 ```
 
 Options:
-- A) D?CTF
-- B) D?C?T
-- C) G?F?C
-- D) U?C?D
+- a) DPCTF
+- b) DQCTF
+- c) FTDQC
+- d) FTCQD
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) D?CTF**
+**Answer: d) FTCQD**
+
+---
 
 ### Question 60
+
 ```text
-LIGHT : ORT?G :: FANCY : D?C?X :: WATCH : ?
+LIGHT : ORTSG :: FANCY : UZMXB :: WATCH : ?
 ```
 
 Options:
-- A) D?H?S
-- B) D?C?Y
-- C) D?C?X
-- D) D?C?T
+- a) DZHXS
+- b) DZGYS
+- c) DZGXS
+- d) DZGXT
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **D) D?C?T**
+**Answer: c) DZGXS**
+
+---
 
 ### Question 61
+
 ```text
-GPX : ENB :: KUN : NSA :: FOY : ?
+BPX : ENB :: KUW : NSA :: FOY : ?
 ```
 
 Options:
-- A) CPU
-- B) C?W
-- C) J?G
-- D) J?C
+- a) CQU
+- b) CQW
+- c) IMB
+- d) IMC
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) J?G**
+**Answer: d) IMC**
+
+---
 
 ### Question 62
+
 ```text
-GAVE : ACEV :: KEPT : EKTP :: ACID : ?
+GAVE : AGEV :: KEPT : EKTP :: ACID : ?
 ```
 
 Options:
-- A) CIAD
-- B) CAID
-- C) A?RT
-- D) CATE
+- a) CIAD
+- b) CAID
+- c) ACDI
+- d) CADI
 
-Relationship: Alphabetical rearrangement
+Relationship: Letter Arrangement Analogy
 
-Answer: **B) CAID**
+**Answer: d) CADI**
+
+---
 
 ### Question 63
+
 ```text
-JUMPER : LWORAF :: QUICK : SWKENU :: FUZZING : ?
+JUMPED : LWORGF :: QUICKS : SWKEMU :: FUZING : ?
 ```
 
 Options:
-- A) HKW?P
-- B) D?F?B?H
-- C) H?B?F?T
-- D) HWK?R?
+- a) HKWIPB
+- b) IPKBWH
+- c) HWBKPI
+- d) HWKBPI
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) HKW?P**
+**Answer: c) HWBKPI**
+
+---
 
 ### Question 64
+
 ```text
-CAN : EES :: OAT : QER :: TOI : ?
+CAM : EES :: OAT : QEZ :: TOI : ?
 ```
 
 Options:
-- A) USO
-- B) VTO
-- C) VSO
-- D) VSP
+- a) USO
+- b) VTO
+- c) VSO
+- d) VSP
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) VSO**
+**Answer: c) VSO**
+
+---
 
 ### Question 65
+
 ```text
-BEAR : D?CS :: FEEL : MF?H :: MANY : ?
+BEAR : DFCS :: FEEL : HFGM :: MANY : ?
 ```
 
 Options:
-- A) O?FY
-- B) O?FZ
-- C) O?P?
-- D) O?B?
+- a) OBPY
+- b) OCPZ
+- c) OBPZ
+- d) OBQZ
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) O?FZ**
+**Answer: c) OBPZ**
+
+---
 
 ### Question 66
+
 ```text
-LAMB : D?EG :: MOTH : JWSR :: NERP : ?
+LAMB : DPEQ :: MOTH : JWSR :: NERD : ?
 ```
 
 Options:
-- A) FVJS
-- B) FUJS
-- C) FV?S
-- D) F?FS
+- a) FVJS
+- b) FUJS
+- c) FVIS
+- d) FUIS
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) FUJS**
+**Answer: d) FUIS**
+
+---
 
 ### Question 67
+
 ```text
-HERO : T?AP :: FLOW : N?Y? :: DIAL : ?
+HERO : JGPM :: FLOW : HNMU :: DIAL : ?
 ```
 
 Options:
-- A) TKYF
-- B) F?LT
-- C) K?L?
-- D) D?F?
+- a) KYFJ
+- b) JFYK
+- c) FLIJ
+- d) FKYJ
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) TKYF**
+**Answer: d) JKYJ**
+
+---
 
 ### Question 68
+
 ```text
-HOST : FM?R :: DRON : ?
+HOST : FMQR :: DRON : ?
 ```
 
 Options:
-- A) B?ML
-- B) FLMF
-- C) B?FM
-- D) B?ML
+- a) BPML
+- b) BLMP
+- c) BPLM
+- d) BMPL
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) B?ML**
+**Answer: a) BPML**
+
+---
 
 ### Question 69
+
 ```text
-CONTROL : NOCT?L :: MISTAKE : ST?TAKE :: JOURNAL : ?
+CONTROL : NOCTRLO :: MISTAKE : SIMTAEK :: JOURNAL : ?
 ```
 
 Options:
-- A) O?UN?T
-- B) O?R?OUN
-- C) J?N?OUL
-- D) U?B?NLA
+- a) AOUNRJL
+- b) OJRLAUN
+- c) JRNAOUL
+- d) UOJRNLA
 
-Relationship: Rearrangement of letters
+Relationship: Letter Arrangement Analogy
 
-Answer: **D) U?B?NLA**
+**Answer: d) UOJRNLA**
+
+---
 
 ### Question 70
+
 ```text
-BEAUTY : Z?X?M :: FRAGILE : EN?X? :: BEYOND : ?
+BEAUTY : ZVXEJH :: FRAGILE : FNLKFXM :: BEYOND : ?
 ```
 
 Options:
-- A) E?F?R
-- B) D?N?TA
-- C) E?R?ER
-- D) D?T?S
+- a) EOPZFC
+- b) DNOYEB
+- c) EPRCEB
+- d) EPRCJH
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) D?N?TA**
+**Answer: d) EPRCJH**
+
+---
 
 ### Question 71
+
 ```text
-FAR : TCOI :: NAPS : ?C?R? :: GUNS : ?
+FAN2 : ICO8 :: NAP5 : QCQ125 :: GUN8 : ?
 ```
 
 Options:
-- A) T?C?G
-- B) T?C?P
-- C) S?T?H
-- D) S?U?R
+- a) JWO64
+- b) JWO512
+- c) JWO484
+- d) JVO512
 
-Relationship: Letter-position analogy
+Relationship: Letter and Number Analogy
 
-Answer: **A) T?C?G**
+**Answer: b) JWO512**
+
+Exam: SSC CPO 2022
+
+---
 
 ### Question 72
+
 ```text
-PLAN : Q?K?B?M :: S?NK : TR?H?T :: RUDE : ?
+PLAN : QOMKBZOM :: SINK : TRJHOMLJ :: RUDE : ?
 ```
 
 Options:
-- A) S?V?T?C?D
-- B) E?F?D?S?U?
-- C) E?F?D?C?D
-- D) S?V?T?F?T
+- a) SQVTECFD
+- b) ECFDSQVT
+- c) ECFDECFD
+- d) SQVTSQVT
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) S?V?T?C?D**
+**Answer: a) SQVTECFD**
+
+Exam: SSC CPO 2022
+
+---
 
 ### Question 73
+
 ```text
-JEALOUSY : LAYSETUO :: F?S?W? : ?
+JEALOUSY : LAYSEJUO :: FUSEWIRE : ?
 ```
 
 Options:
-- A) ESFRUF?W
-- B) EFF?RSUW
-- C) E?N?E?U
-- D) E?F?R?W
+- a) ESERUFIW
+- b) EEFIRSUW
+- c) REWISEFU
+- d) ESUFERIW
 
-Relationship: Rearrangement of letters
+Relationship: Letter Arrangement Analogy
 
-Answer: **A) ESFRUF?W**
+**Answer: a) ESERUFIW**
+
+Exam: SSC CPO 2020
+
+---
 
 ### Question 74
+
 ```text
 ACTION : TCANOI :: BOTTLE : ?
 ```
 
 Options:
-- A) EBTO?T
-- B) OST?L
-- C) E?T?O?
-- D) T?BELT
+- a) EBLOTT
+- b) OBTTEL
+- c) ELTTOB
+- d) TOBELT
 
-Relationship: Rearrangement of letters
+Relationship: Letter Arrangement Analogy
 
-Answer: **D) T?BELT**
+**Answer: d) TOBELT**
+
+Exam: SSC CPO 2020
+
+---
 
 ### Question 75
+
 ```text
-LIST : JN?R?V :: MOAN : ? :: PLUM : ?
+LIST : JNGKQURV :: MOAN : KOMQYCLP :: PLUM : ?
 ```
 
 Options:
-- A) N?T?N?S?W
-- B) N?S?N?KO
-- C) N?S?N?T
-- D) N?S?W?O
+- a) NRJNKOSW
+- b) NRJNSWKO
+- c) NRSWKOJN
+- d) NRSWJNKO
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) N?S?N?KO**
+**Answer: b) NRJNSWKO**
+
+Exam: SSC CPO 2022
+
+---
 
 ### Question 76
+
 ```text
-DUNE : B?S?L?CH :: NEED : L?C?H?B? :: K?N?A : ?
+DUNE : BGSXLQCH :: NEED : LQCHCHBG :: KING : ?
 ```
 
 Options:
-- A) N?P?E?T
-- B) N?L?G?E?
-- C) J?C?L?F?J
-- D) L?P?E?N?A
+- a) GLLQEJIN
+- b) NGLLQEJI
+- c) INGLLQEJ
+- d) LLQEJING
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) J?C?L?F?J**
+**Answer: c) INGLLQEJ**
+
+Exam: SSC CPO 2022
+
+---
 
 ### Question 77
+
 ```text
-YOUR : XPET :: TONE : SPLW :: BANK : ?
+YOUR : XPEJ :: TONE : SPLW :: BANK : ?
 ```
 
 Options:
-- A) X?F
-- B) S?C?
-- C) A?L?
-- D) Y?M?
+- a) XYOP
+- b) CBOL
+- c) ABLQ
+- d) YZMP
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) A?L?**
+**Answer: c) ABLQ**
+
+Exam: SSC GD 2022
+
+---
 
 ### Question 78
+
 ```text
-V?E? : FEX :: POST : T?S :: H?R : ?
+UCE : FEX :: PGS : TIS :: HKR : ?
 ```
 
 Options:
-- A) S?K
-- B) SMJ
-- C) SMK
-- D) R?H
+- a) SNK
+- b) SMJ
+- c) SMK
+- d) RKH
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **C) SMK**
+**Answer: c) SMK**
+
+Exam: SSC GD 2023
+
+---
 
 ### Question 79
+
 ```text
-COMFORT : OCFM?O :: CONTROL : OCTN?R? :: DIGITAL : ?
+COMFORT : OCFMTRO :: CONTROL : OCTNLOR :: DIGITAL : ?
 ```
 
 Options:
-- A) D?C?A?
-- B) G?T?D?
-- C) G?D?A?
-- D) J?T?C?
+- a) IDIGLAT
+- b) GITALDI
+- c) GIDLATI
+- d) LATIGID
 
-Relationship: Alternate-letter arrangement
+Relationship: Letter Arrangement Analogy
 
-Answer: **B) G?T?D?**
+**Answer: a) IDIGLAT**
+
+Exam: SSC GD 2022
+
+---
 
 ### Question 80
+
 ```text
-METHOD : O?Z?P? :: NORMAL : ?
+METHOD : OIZPYP :: NORMAL : ?
 ```
 
 Options:
-- A) PS?UX
-- B) B?X?UK
-- C) P?V?T
-- D) P?V?X
+- a) PSXUKX
+- b) PXSUXK
+- c) QRYVLY
+- d) PSXVLX
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **D) P?V?X**
+**Answer: a) PSXUKX**
+
+---
 
 ### Question 81
+
 ```text
 EACH : AEHC :: GAME : AGEM :: IDOL : ?
 ```
 
 Options:
-- A) OLDI
-- B) DILO
-- C) JDLO
-- D) DIOL
+- a) OLDI
+- b) DILO
+- c) IDLO
+- d) DIOL
 
-Relationship: Rearrangement of letters
+Relationship: Letter Arrangement Analogy
 
-Answer: **B) DILO**
+**Answer: b) DILO**
+
+---
 
 ### Question 82
+
 ```text
-WINDOW : XFOELX :: TICKET : U?DL?U :: REGION : ?
+WINDOW : XFOELX :: TICKET : UFDLBU :: REGION : ?
 ```
 
 Options:
-- A) X?B?L?
-- B) U?D?BU
-- C) S?H?T?L
-- D) S?H?T?L?
+- a) SBHFLO
+- b) SHFKLO
+- c) BHFDLO
+- d) HFSOKL
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) U?DL?U**
+**Answer: a) SBHFLO**
+
+---
 
 ### Question 83
+
 ```text
-COOK : D?PH :: DOWN : EGXP :: ONLY : ?
+COOK : DQPM :: DOWN : EQXP :: ONLY : ?
 ```
 
 Options:
-- A) P?MA
-- B) P?MB
-- C) P?MA
-- D) P?MB
+- a) PPMA
+- b) PPMB
+- c) PQMA
+- d) PQMB
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) P?MB**
+**Answer: a) PPMA**
+
+---
 
 ### Question 84
+
 ```text
-ROAR : P?N? :: HEAR : G?D? :: DAMP : ?
+ROAR : QZNQ :: HEAR : QZDG :: DAMP : ?
 ```
 
 Options:
-- A) MPAD
-- B) O?Z?
-- C) B?OA
-- D) J?MAD
+- a) MPAD
+- b) OLZC
+- c) BCOA
+- d) PMAD
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) MPAD**
+**Answer: b) OLZC**
+
+---
 
 ### Question 85
+
 ```text
-FUELED : DX?A? :: GELATO : E?D?R :: HEART : ?
+FUELED : DXBOAG :: GELATO : EHIDPR :: HEARTY : ?
 ```
 
 Options:
-- A) OPBSUJ
-- B) M?A?P?
-- C) N?Y?F?
-- D) L?F?X?
+- a) OPBSUJ
+- b) MQADFH
+- c) FHXUPB
+- d) LNFXCA
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) OPBSUJ**
+**Answer: c) FHXUPB**
+
+Exam: SSC CGL 2023
+
+---
 
 ### Question 86
-```text
-Which of the following letter clusters should replace # and ! so that the pattern and relationship followed between the letter cluster pair on the left side of :: is the same as that on the right side of :: ?
 
-# : DKR :: PCL : !
+```text
+# : DKR :: PCL : %
 ```
 
 Options:
-- A) # = BNG, ! = NPM
-- B) # = FHT, ! = NET
-- C) # = E?G, ! = O?H
-- D) # = BNF, ! = NER
+- a) # = BNQ, % = NFM
+- b) # = FHT, % = NFJ
+- c) # = COQ, % = OGH
+- d) # = BNP, % = NFJ
 
-Relationship: Letter-cluster analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) # = BNG, ! = NPM**
+**Answer: b) # = FHT, % = NFJ**
+
+Exam: SSC CGL Tier II
+
+---
 
 ### Question 87
+
 ```text
-# : KNF :: GCV : !
+# : KNF :: QCV : %
 ```
 
 Options:
-- A) # = IPD, ! = OGT
-- B) # = H?P, ! = NFS
-- C) # = M?H, ! = O?T
-- D) # = H?P, ! = N?S
+- a) # = IPD, % = OET
+- b) # = HPD, % = NFS
+- c) # = MLH, % = OET
+- d) # = HQC, % = NFS
 
-Relationship: Letter-cluster analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) # = IPD, ! = OGT**
+**Answer: c) # = MLH, % = OET**
+
+Exam: SSC CGL Tier II
+
+---
 
 ### Question 88
+
 ```text
-NEAR : PV?P :: G?N? : XL?C :: TAXI : ?
+NEAR : PVZP :: GONE : ILMC :: TAXI : ?
 ```
 
 Options:
-- A) G?Z?C
-- B) R?X?
-- C) V?C?M
-- D) V?Z?G
+- a) GZCR
+- b) RCZK
+- c) VZCM
+- d) VZCG
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) G?Z?C**
+**Answer: d) VZCG**
+
+---
 
 ### Question 89
+
 ```text
-ROSE : TV?S :: V?T? : ? :: TIME : ?
+ROSE : IVQS :: SUIT : XLWT :: TIME : ?
 ```
 
 Options:
-- A) T?K?
-- B) H?K?
-- C) T?K?
-- D) T?P?
+- a) IPKU
+- b) IPKV
+- c) JPKU
+- d) JPKV
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) H?K?**
+**Answer: c) JPKU**
+
+---
 
 ### Question 90
+
 ```text
-# : CLQ :: NDK : !
+# : CLQ :: NDK : %
 ```
 
 Options:
-- A) # = AJS, ! = MAN
-- B) # = ADO, ! = RAM
-- C) # = AJT, ! = PRN
-- D) # = ADO, ! = P?N
+- a) # = AJS, % = MAM
+- b) # = AOO, % = PAM
+- c) # = EIT, % = QBN
+- d) # = DIS, % = PBN
 
-Relationship: Letter-cluster analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) # = ADO, ! = RAM**
+**Answer: b) # = AOO, % = PAM**
+
+Exam: SSC CGL Tier II
+
+---
 
 ### Question 91
+
 ```text
-# : KNF :: GCV : !
+# : KNE :: PQV : %
 ```
 
 Options:
-- A) # = NOR, ! = SRY
-- B) # = NKF, ! = MTU
-- C) # = M?B, ! = RTT
-- D) # = H?P, ! = MTV
+- a) # = NOB, % = SRY
+- b) # = NKF, % = MTU
+- c) # = MOB, % = RTT
+- d) # = HQD, % = MTV
 
-Relationship: Letter-cluster analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) # = NOR, ! = SRY**
+**Answer: b) # = NKF, % = MTU**
+
+Exam: SSC CGL Tier II
+
+---
 
 ### Question 92
+
 ```text
-R?N : OLU :: D?L : H?G :: V?C : ?
+RJN : OLU :: DHL : MJG :: VKC : ?
 ```
 
 Options:
-- A) DMY
-- B) ENZ
-- C) Y?D
-- D) ENY
+- a) DMY
+- b) ENZ
+- c) YMD
+- d) ENY
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **D) ENY**
+**Answer: a) DMY**
+
+Exam: SSC CGL, 17 July 2023
+
+---
 
 ### Question 93
+
 ```text
-# : UJG :: MPS : !
+# : UJQ :: MPS : %
 ```
 
 Options:
-- A) # = JUQ, ! = PSM
-- B) # = J?U, ! = SMP
-- C) # = J?L, ! = P?N
-- D) # = J?U, ! = PSM
+- a) # = JUQ, % = PSM
+- b) # = JQU, % = SMP
+- c) # = JQU, % = PSM
+- d) # = QJU, % = PSM
 
-Relationship: Letter-cluster analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) # = JUQ, ! = PSM**
+**Answer: b) # = JQU, % = SMP**
+
+Exam: SSC CGL Tier II
+
+---
 
 ### Question 94
+
 ```text
-LACK : CW?X? :: MYST : ?
+LACK : GWXG :: MYST : ?
 ```
 
 Options:
-- A) TCPH
-- B) H?NF
-- C) T?MC
-- D) H?NT
+- a) TCPH
+- b) HUNP
+- c) TUMC
+- d) HUMT
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **B) H?NF**
+**Answer: b) HUNP**
+
+---
 
 ### Question 95
+
 ```text
-PARTS : STRAP :: P : WOLF
+PARTS : STRAP :: ? : WOLF
 ```
 
 Options:
-- A) BIRDS
-- B) FLOW
-- C) N?R?E
-- D) NORMAL
+- a) BIRDS
+- b) FLOW
+- c) ANIMAL
+- d) MAMAL
 
-Relationship: Rearrangement of letters
+Relationship: Word/Letter Arrangement Analogy
 
-Answer: **B) FLOW**
+**Answer: b) FLOW**
+
+---
 
 ### Question 96
+
 ```text
-BULL : CDWNNNN :: SHOT : TU?P?U?
+BULL : CDVWMNMN :: SHOT : TUIJPQUV :: TENS : ?
 ```
 
 Options:
-- A) UV?F?P?U
-- B) OPTUUVFS
-- C) OPTU?PTU
-- D) U?F?U?S
+- a) UVFGOPTU
+- b) OPTUUVFG
+- c) OPTUOPTU
+- d) UVFGUVFG
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **A) UV?F?P?U**
+**Answer: a) UVFGOPTU**
+
+---
 
 ### Question 97
+
 ```text
-RTN : OLU :: DHL : H?G :: VKC : ?
+RJN : OLU :: DHL : MJG :: VKC : ?
 ```
 
 Options:
-- A) DMY
-- B) ENZ
-- C) Y?D
-- D) ENY
+- a) DMY
+- b) ENZ
+- c) YMD
+- d) ENY
 
-Relationship: Letter-position analogy
+Relationship: Letter-Cluster Analogy
 
-Answer: **D) ENY**
+**Answer: a) DMY**
+
+---
 
 ### Question 98
+
 ```text
 WK : 52 :: LO : ?
 ```
 
 Options:
-- A) 12
-- B) 36
-- C) 46
-- D) 47
+- a) 12
+- b) 36
+- c) 46
+- d) 47
 
-Relationship: Sum/product of alphabet positions
+Relationship: Letter and Number Analogy
 
-Answer: **B) 36**
+**Answer: b) 36**
+
+---
 
 ### Question 99
+
 ```text
 BACK : 71
 ```
 
 Options:
-- A) ROAD : 93
-- B) OBey : 74
-- C) SAFE : 31
-- D) NAME : 33
+- a) ROAD : 93
+- b) OBEY : 74
+- c) SAFE : 31
+- d) NAME : 33
 
-Relationship: Add alphabet positions and then reverse the result
+Relationship: Letter and Number Analogy
 
-Answer: **B) OBEY : 74**
+**Answer: b) OBEY : 74**
+
+---
 
 ### Question 100
+
 ```text
 TE : 4 :: PH : ?
 ```
 
 Options:
-- A) 4
-- B) 2
-- C) 5
-- D) 8
+- a) 4
+- b) 2
+- c) 5
+- d) 8
 
-Relationship: Difference between alphabet positions
+Relationship: Letter and Number Analogy
 
-Answer: **B) 2**
+**Answer: b) 2**
 
 ---
+
 
 ## 📌 Revision Method
 

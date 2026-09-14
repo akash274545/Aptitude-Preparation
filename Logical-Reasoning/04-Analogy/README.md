@@ -1129,7 +1129,782 @@ In this type, alternate letters are selected or transformed according to a fixed
 The alternate positions and their relationships are used to find the answer.
 
 ---
+## 📝 Practice Questions
 
+### Part 4 Practice Set
+
+I solved the following **Letter Analogy questions from Q51 to Q100** in this session.
+
+The following questions are from my notebook, **Q51–Q100**.
+
+
+### Question 51
+```text
+RV : TE :: EL : ?
+```
+
+Options:
+- A) DP
+- B) GU
+- C) CLU
+- D) HC
+
+Relationship: Letter-position analogy
+
+Answer: **B) GU**
+
+### Question 52
+```text
+ZR : XK :: ? : WJ
+```
+
+Options:
+- A) RJ
+- B) UH
+- C) XJ
+- D) YL
+
+Relationship: Letter-position analogy
+
+Answer: **D) YL**
+
+### Question 53
+```text
+ATN?N? : PTW? :: ?
+```
+
+Options:
+- A) JTE
+- B) SW2
+- C) MZW
+- D) S?M
+
+Relationship: Letter-position analogy
+
+Answer: **B) SW2**
+
+> Note: The handwritten letters in this question are unclear in the uploaded image. Please verify the exact wording from the notebook.
+
+### Question 54
+```text
+PRACTISE : AC EPRST :: TECHNOLOGY : ?
+```
+
+Options:
+- A) HCETONYGLO
+- B) C E G H L N O P T Y
+- C) CE GHNOATY
+- D) CEC LH OONTY
+
+Relationship: Arranging letters in ascending alphabetical order
+
+Answer: **B) CEGHLNOPTY**
+
+### Question 55
+```text
+GUITAR : TGNEKWS :: REPORTS : ?
+```
+
+Options:
+- A) UVTPRLT
+- B) VU?R?S
+- C) USV?RAT
+- D) UVTR?HT
+
+Relationship: Letter-position analogy
+
+Answer: **A) UVTPRLT**
+
+### Question 56
+```text
+AC : CI :: CH : ?
+```
+
+Options:
+- A) JK
+- B) UX
+- C) UU
+- D) UV
+
+Relationship: Alphabet-position analogy
+
+Answer: **B) UX**
+
+### Question 57
+```text
+AFK : FJO :: PUZ : ?
+```
+
+Options:
+- A) TXE
+- B) T?N
+- C) JUUM
+- D) USC
+
+Relationship: Letter-position analogy
+
+Answer: **A) TXE**
+
+### Question 58
+```text
+MAX : VPC :: CTL : HPX : ?
+```
+
+Options:
+- A) PXF
+- B) P?Q
+- C) Q?A
+- D) BYQ
+
+Relationship: Letter-position analogy
+
+Answer: **C) Q?A**
+
+> Note: Some characters in the options are unclear in the handwritten page.
+
+### Question 59
+```text
+PLANT : VPCNR :: STOMP : R?V?U :: ROADS : ?
+```
+
+Options:
+- A) D?CTF
+- B) D?C?T
+- C) G?F?C
+- D) U?C?D
+
+Relationship: Letter-position analogy
+
+Answer: **A) D?CTF**
+
+### Question 60
+```text
+LIGHT : ORT?G :: FANCY : D?C?X :: WATCH : ?
+```
+
+Options:
+- A) D?H?S
+- B) D?C?Y
+- C) D?C?X
+- D) D?C?T
+
+Relationship: Letter-position analogy
+
+Answer: **D) D?C?T**
+
+### Question 61
+```text
+GPX : ENB :: KUN : NSA :: FOY : ?
+```
+
+Options:
+- A) CPU
+- B) C?W
+- C) J?G
+- D) J?C
+
+Relationship: Letter-position analogy
+
+Answer: **C) J?G**
+
+### Question 62
+```text
+GAVE : ACEV :: KEPT : EKTP :: ACID : ?
+```
+
+Options:
+- A) CIAD
+- B) CAID
+- C) A?RT
+- D) CATE
+
+Relationship: Alphabetical rearrangement
+
+Answer: **B) CAID**
+
+### Question 63
+```text
+JUMPER : LWORAF :: QUICK : SWKENU :: FUZZING : ?
+```
+
+Options:
+- A) HKW?P
+- B) D?F?B?H
+- C) H?B?F?T
+- D) HWK?R?
+
+Relationship: Letter-position analogy
+
+Answer: **A) HKW?P**
+
+### Question 64
+```text
+CAN : EES :: OAT : QER :: TOI : ?
+```
+
+Options:
+- A) USO
+- B) VTO
+- C) VSO
+- D) VSP
+
+Relationship: Letter-position analogy
+
+Answer: **C) VSO**
+
+### Question 65
+```text
+BEAR : D?CS :: FEEL : MF?H :: MANY : ?
+```
+
+Options:
+- A) O?FY
+- B) O?FZ
+- C) O?P?
+- D) O?B?
+
+Relationship: Letter-position analogy
+
+Answer: **B) O?FZ**
+
+### Question 66
+```text
+LAMB : D?EG :: MOTH : JWSR :: NERP : ?
+```
+
+Options:
+- A) FVJS
+- B) FUJS
+- C) FV?S
+- D) F?FS
+
+Relationship: Letter-position analogy
+
+Answer: **B) FUJS**
+
+### Question 67
+```text
+HERO : T?AP :: FLOW : N?Y? :: DIAL : ?
+```
+
+Options:
+- A) TKYF
+- B) F?LT
+- C) K?L?
+- D) D?F?
+
+Relationship: Letter-position analogy
+
+Answer: **A) TKYF**
+
+### Question 68
+```text
+HOST : FM?R :: DRON : ?
+```
+
+Options:
+- A) B?ML
+- B) FLMF
+- C) B?FM
+- D) B?ML
+
+Relationship: Letter-position analogy
+
+Answer: **A) B?ML**
+
+### Question 69
+```text
+CONTROL : NOCT?L :: MISTAKE : ST?TAKE :: JOURNAL : ?
+```
+
+Options:
+- A) O?UN?T
+- B) O?R?OUN
+- C) J?N?OUL
+- D) U?B?NLA
+
+Relationship: Rearrangement of letters
+
+Answer: **D) U?B?NLA**
+
+### Question 70
+```text
+BEAUTY : Z?X?M :: FRAGILE : EN?X? :: BEYOND : ?
+```
+
+Options:
+- A) E?F?R
+- B) D?N?TA
+- C) E?R?ER
+- D) D?T?S
+
+Relationship: Letter-position analogy
+
+Answer: **B) D?N?TA**
+
+### Question 71
+```text
+FAR : TCOI :: NAPS : ?C?R? :: GUNS : ?
+```
+
+Options:
+- A) T?C?G
+- B) T?C?P
+- C) S?T?H
+- D) S?U?R
+
+Relationship: Letter-position analogy
+
+Answer: **A) T?C?G**
+
+### Question 72
+```text
+PLAN : Q?K?B?M :: S?NK : TR?H?T :: RUDE : ?
+```
+
+Options:
+- A) S?V?T?C?D
+- B) E?F?D?S?U?
+- C) E?F?D?C?D
+- D) S?V?T?F?T
+
+Relationship: Letter-position analogy
+
+Answer: **A) S?V?T?C?D**
+
+### Question 73
+```text
+JEALOUSY : LAYSETUO :: F?S?W? : ?
+```
+
+Options:
+- A) ESFRUF?W
+- B) EFF?RSUW
+- C) E?N?E?U
+- D) E?F?R?W
+
+Relationship: Rearrangement of letters
+
+Answer: **A) ESFRUF?W**
+
+### Question 74
+```text
+ACTION : TCANOI :: BOTTLE : ?
+```
+
+Options:
+- A) EBTO?T
+- B) OST?L
+- C) E?T?O?
+- D) T?BELT
+
+Relationship: Rearrangement of letters
+
+Answer: **D) T?BELT**
+
+### Question 75
+```text
+LIST : JN?R?V :: MOAN : ? :: PLUM : ?
+```
+
+Options:
+- A) N?T?N?S?W
+- B) N?S?N?KO
+- C) N?S?N?T
+- D) N?S?W?O
+
+Relationship: Letter-position analogy
+
+Answer: **B) N?S?N?KO**
+
+### Question 76
+```text
+DUNE : B?S?L?CH :: NEED : L?C?H?B? :: K?N?A : ?
+```
+
+Options:
+- A) N?P?E?T
+- B) N?L?G?E?
+- C) J?C?L?F?J
+- D) L?P?E?N?A
+
+Relationship: Letter-position analogy
+
+Answer: **C) J?C?L?F?J**
+
+### Question 77
+```text
+YOUR : XPET :: TONE : SPLW :: BANK : ?
+```
+
+Options:
+- A) X?F
+- B) S?C?
+- C) A?L?
+- D) Y?M?
+
+Relationship: Letter-position analogy
+
+Answer: **C) A?L?**
+
+### Question 78
+```text
+V?E? : FEX :: POST : T?S :: H?R : ?
+```
+
+Options:
+- A) S?K
+- B) SMJ
+- C) SMK
+- D) R?H
+
+Relationship: Letter-position analogy
+
+Answer: **C) SMK**
+
+### Question 79
+```text
+COMFORT : OCFM?O :: CONTROL : OCTN?R? :: DIGITAL : ?
+```
+
+Options:
+- A) D?C?A?
+- B) G?T?D?
+- C) G?D?A?
+- D) J?T?C?
+
+Relationship: Alternate-letter arrangement
+
+Answer: **B) G?T?D?**
+
+### Question 80
+```text
+METHOD : O?Z?P? :: NORMAL : ?
+```
+
+Options:
+- A) PS?UX
+- B) B?X?UK
+- C) P?V?T
+- D) P?V?X
+
+Relationship: Letter-position analogy
+
+Answer: **D) P?V?X**
+
+### Question 81
+```text
+EACH : AEHC :: GAME : AGEM :: IDOL : ?
+```
+
+Options:
+- A) OLDI
+- B) DILO
+- C) JDLO
+- D) DIOL
+
+Relationship: Rearrangement of letters
+
+Answer: **B) DILO**
+
+### Question 82
+```text
+WINDOW : XFOELX :: TICKET : U?DL?U :: REGION : ?
+```
+
+Options:
+- A) X?B?L?
+- B) U?D?BU
+- C) S?H?T?L
+- D) S?H?T?L?
+
+Relationship: Letter-position analogy
+
+Answer: **B) U?DL?U**
+
+### Question 83
+```text
+COOK : D?PH :: DOWN : EGXP :: ONLY : ?
+```
+
+Options:
+- A) P?MA
+- B) P?MB
+- C) P?MA
+- D) P?MB
+
+Relationship: Letter-position analogy
+
+Answer: **B) P?MB**
+
+### Question 84
+```text
+ROAR : P?N? :: HEAR : G?D? :: DAMP : ?
+```
+
+Options:
+- A) MPAD
+- B) O?Z?
+- C) B?OA
+- D) J?MAD
+
+Relationship: Letter-position analogy
+
+Answer: **A) MPAD**
+
+### Question 85
+```text
+FUELED : DX?A? :: GELATO : E?D?R :: HEART : ?
+```
+
+Options:
+- A) OPBSUJ
+- B) M?A?P?
+- C) N?Y?F?
+- D) L?F?X?
+
+Relationship: Letter-position analogy
+
+Answer: **A) OPBSUJ**
+
+### Question 86
+```text
+Which of the following letter clusters should replace # and ! so that the pattern and relationship followed between the letter cluster pair on the left side of :: is the same as that on the right side of :: ?
+
+# : DKR :: PCL : !
+```
+
+Options:
+- A) # = BNG, ! = NPM
+- B) # = FHT, ! = NET
+- C) # = E?G, ! = O?H
+- D) # = BNF, ! = NER
+
+Relationship: Letter-cluster analogy
+
+Answer: **A) # = BNG, ! = NPM**
+
+### Question 87
+```text
+# : KNF :: GCV : !
+```
+
+Options:
+- A) # = IPD, ! = OGT
+- B) # = H?P, ! = NFS
+- C) # = M?H, ! = O?T
+- D) # = H?P, ! = N?S
+
+Relationship: Letter-cluster analogy
+
+Answer: **A) # = IPD, ! = OGT**
+
+### Question 88
+```text
+NEAR : PV?P :: G?N? : XL?C :: TAXI : ?
+```
+
+Options:
+- A) G?Z?C
+- B) R?X?
+- C) V?C?M
+- D) V?Z?G
+
+Relationship: Letter-position analogy
+
+Answer: **A) G?Z?C**
+
+### Question 89
+```text
+ROSE : TV?S :: V?T? : ? :: TIME : ?
+```
+
+Options:
+- A) T?K?
+- B) H?K?
+- C) T?K?
+- D) T?P?
+
+Relationship: Letter-position analogy
+
+Answer: **B) H?K?**
+
+### Question 90
+```text
+# : CLQ :: NDK : !
+```
+
+Options:
+- A) # = AJS, ! = MAN
+- B) # = ADO, ! = RAM
+- C) # = AJT, ! = PRN
+- D) # = ADO, ! = P?N
+
+Relationship: Letter-cluster analogy
+
+Answer: **B) # = ADO, ! = RAM**
+
+### Question 91
+```text
+# : KNF :: GCV : !
+```
+
+Options:
+- A) # = NOR, ! = SRY
+- B) # = NKF, ! = MTU
+- C) # = M?B, ! = RTT
+- D) # = H?P, ! = MTV
+
+Relationship: Letter-cluster analogy
+
+Answer: **A) # = NOR, ! = SRY**
+
+### Question 92
+```text
+R?N : OLU :: D?L : H?G :: V?C : ?
+```
+
+Options:
+- A) DMY
+- B) ENZ
+- C) Y?D
+- D) ENY
+
+Relationship: Letter-position analogy
+
+Answer: **D) ENY**
+
+### Question 93
+```text
+# : UJG :: MPS : !
+```
+
+Options:
+- A) # = JUQ, ! = PSM
+- B) # = J?U, ! = SMP
+- C) # = J?L, ! = P?N
+- D) # = J?U, ! = PSM
+
+Relationship: Letter-cluster analogy
+
+Answer: **A) # = JUQ, ! = PSM**
+
+### Question 94
+```text
+LACK : CW?X? :: MYST : ?
+```
+
+Options:
+- A) TCPH
+- B) H?NF
+- C) T?MC
+- D) H?NT
+
+Relationship: Letter-position analogy
+
+Answer: **B) H?NF**
+
+### Question 95
+```text
+PARTS : STRAP :: P : WOLF
+```
+
+Options:
+- A) BIRDS
+- B) FLOW
+- C) N?R?E
+- D) NORMAL
+
+Relationship: Rearrangement of letters
+
+Answer: **B) FLOW**
+
+### Question 96
+```text
+BULL : CDWNNNN :: SHOT : TU?P?U?
+```
+
+Options:
+- A) UV?F?P?U
+- B) OPTUUVFS
+- C) OPTU?PTU
+- D) U?F?U?S
+
+Relationship: Letter-position analogy
+
+Answer: **A) UV?F?P?U**
+
+### Question 97
+```text
+RTN : OLU :: DHL : H?G :: VKC : ?
+```
+
+Options:
+- A) DMY
+- B) ENZ
+- C) Y?D
+- D) ENY
+
+Relationship: Letter-position analogy
+
+Answer: **D) ENY**
+
+### Question 98
+```text
+WK : 52 :: LO : ?
+```
+
+Options:
+- A) 12
+- B) 36
+- C) 46
+- D) 47
+
+Relationship: Sum/product of alphabet positions
+
+Answer: **B) 36**
+
+### Question 99
+```text
+BACK : 71
+```
+
+Options:
+- A) ROAD : 93
+- B) OBey : 74
+- C) SAFE : 31
+- D) NAME : 33
+
+Relationship: Add alphabet positions and then reverse the result
+
+Answer: **B) OBEY : 74**
+
+### Question 100
+```text
+TE : 4 :: PH : ?
+```
+
+Options:
+- A) 4
+- B) 2
+- C) 5
+- D) 8
+
+Relationship: Difference between alphabet positions
+
+Answer: **B) 2**
+---
+
+
+
+
+
+
+
+---
+
+
+---
 ## 📌 Practice Progress
 
 ```text

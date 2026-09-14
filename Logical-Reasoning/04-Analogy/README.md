@@ -1045,6 +1045,91 @@ Pen : Horse :: Control Panel : ?
 
 ---
 
+## 📘 Part 4 — Letter Analogy
+
+This part focuses on **Letter Analogy**, where a relationship between one pair of letters or letter clusters is identified and the same rule is applied to another pair.
+
+### Topics Learned
+
+1. **Find the Letter Cluster**
+2. **Find the Letter Pair**
+3. **Order-Based Letter Analogy**
+4. **Alternate-Letter Analogy**
+
+---
+
+## 1. Find the Letter Cluster
+
+In this type, a group of letters is transformed into another group by using a fixed relationship.
+
+### Example
+
+```text
+BRO : YTL :: KEN : ?
+```
+
+The relationship between `BRO` and `YTL` is identified and applied to `KEN`.
+
+---
+
+## 2. Find the Letter Pair
+
+In this type, the relationship between two letter pairs is identified by comparing their alphabet positions.
+
+### Example
+
+```text
+HOL : TVS :: ? : ?
+```
+
+The alphabet positions of the letters are compared to find the required pair.
+
+---
+
+## 3. Order-Based Letter Analogy
+
+In this type, letters are arranged or shifted according to their alphabetic order.
+
+### Important Operations
+
+- Arranging letters in ascending order
+- Arranging letters in descending order
+- Comparing alphabet positions
+- Applying positive or negative shifts
+- Finding the same order-based relationship in another cluster
+
+### Example
+
+```text
+LNNP : GITK :: ?
+```
+
+The order and position of each letter are analysed before applying the same rule.
+
+---
+
+## 4. Alternate-Letter Analogy
+
+In this type, alternate letters are selected or transformed according to a fixed pattern.
+
+### Important Operations
+
+- Selecting alternate letters
+- Comparing odd-position letters
+- Comparing even-position letters
+- Applying the same alternate-letter rule
+- Checking the resulting letter cluster
+
+### Example
+
+```text
+# : UTS :: NPS : ?
+```
+
+The alternate positions and their relationships are used to find the answer.
+
+---
+
 ## 📌 Practice Progress
 
 ```text

@@ -62,6 +62,34 @@ Lacunae        → Absent part / Gap
 
 ---
 
+## 📚 Vocabulary — Part 2
+
+The following words and meanings are taken from my handwritten vocabulary notes.
+
+### Words and Meanings
+
+| No. | Word | Meaning |
+|---:|---|---|
+| 21 | **Gallant** | Brave, grand, noble, valiant |
+| 22 | **Facade** | Deceptive outward appearance |
+| 23 | **Ignominious** | Marked by shame, disgrace, or debasement |
+| 24 | **Gregarious** | Sociable, outgoing, enjoys being in a crowd |
+| 25 | **Hurtle** | To move more rapidly |
+
+---
+
+## 📝 Quick Revision — Part 2
+
+```text
+Gallant       → Brave / Grand / Noble / Valiant
+Facade        → Deceptive outward appearance
+Ignominious   → Marked by shame / Disgrace / Debasement
+Gregarious    → Sociable / Outgoing / Enjoys being in a crowd
+Hurtle        → To move more rapidly
+```
+
+---
+
 ## 🎯 Goal
 
 Build a strong vocabulary for **aptitude, competitive examinations, reading comprehension, and verbal ability** by learning new words, understanding their meanings, and revising them regularly.
@@ -82,7 +110,7 @@ Improve vocabulary
 
 ## 📌 Status
 
-**Vocabulary — Part 1 Completed ✅**
+**Vocabulary — Part 1 + Part 2 Completed ✅**
 
-**Words Covered: 20**
+**Total Words Covered: 25**
 

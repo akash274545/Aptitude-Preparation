@@ -30,10 +30,24 @@ This folder contains my **Idioms, Phrases, and Phrasal Verbs** notes and meaning
 | 5 | **Reel off** | To do something quickly and easily |
 
 ---
+## 📚 Part 2
+
+### Idioms
+
+| No. | Idiom | Meaning |
+|---:|---|---|
+| 1 | **Mend one's fences** | To make peace |
+| 2 | **Daredevil** | A fearless person |
+| 3 | **Add insult to injury** | To further a loss with mockery or indignity |
+| 4 | **Cutthroat** | Tough |
+| 5 | **Palmy days** | Prosperous / affluent days |
+
+
+---
 
 ## 📝 Quick Revision
 
-### Idioms
+### Part-1 - Idioms
 
 ```text
 Shake in one's shoes
@@ -52,7 +66,7 @@ Tongue in cheek
         → Say something in an ironic / humorous way
 ```
 
-### Phrasal Verbs
+### Part-1 - Phrasal Verbs
 
 ```text
 Bawl out
@@ -71,6 +85,24 @@ Reel off
         → To do something quickly and easily
 ```
 
+### Part 2 — Idioms
+
+```text
+Mend one's fences
+        → To make peace
+
+Daredevil
+        → A fearless person
+
+Add insult to injury
+        → To further a loss with mockery or indignity
+
+Cutthroat
+        → Tough
+
+Palmy days
+        → Prosperous / affluent days
+```
 ---
 
 ## 🎯 Goal
@@ -93,10 +125,12 @@ Improve verbal ability
 
 ## 📌 Status
 
-**Idioms, Phrases & Phrasal Verbs — Part 1 Completed ✅**
+**Idioms, Phrases & Phrasal Verbs — Part 1 + Part 2 Completed ✅**
 
-**Idioms Covered: 5**
+**Part 1 Idioms Covered: 5**
 
-**Phrasal Verbs Covered: 5**
+**Part 1 Phrasal Verbs Covered: 5**
 
-**Total Expressions Covered: 10**
+**Part 2 Idioms Covered: 5**
+
+**Total Expressions Covered: 15**

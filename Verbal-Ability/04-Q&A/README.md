@@ -272,6 +272,86 @@ Work     Book
 ```
 
 ---
+## 📚 Part 3 — Sessions 5 and 6
+
+### Session 5 — Know Your Level
+
+The session focuses on evaluating current performance through a practice test.
+
+#### Performance Analysis
+
+| Category | Result |
+|---|---:|
+| Total Questions | 20 |
+| Attempted | 16 |
+| Correct | 11 |
+| Wrong | 5 |
+| Skipped | 4 |
+
+#### Score-Level Classification
+
+| Score | Level |
+|---|---|
+| Less than 5 | Basic Level |
+| 6–12 | Intermediate Level |
+| 13–20 | Advanced Level |
+
+**My Level:** Intermediate
+
+The purpose of this activity is to understand the present level, identify mistakes, and improve performance through regular practice.
+
+---
+
+### Session 5 — Weekly Tasks
+
+#### Weekly Task 1.1
+
+- Read the book **Old Man and His God**.
+- Write down the summary of any one story.
+
+#### Weekly Task 1.2
+
+Watch the movie **Frozen 1** and answer the following questions:
+
+**Q1.** Describe the character of Elsa in 5 sentences using 5 different adjectives, one in each sentence.
+
+**Q2.** How would you describe the relationship between Elsa and Ana in the movie?
+
+**Q3.** Write the meanings of the following words and make sentences with respect to the characters of the movie:
+
+- Bizarre
+- Frozen
+- Crystallize
+- Thaw
+- Coronation
+
+---
+
+### Session 6 — Reading 1
+
+#### Reading Environment
+
+- Maintain a peaceful reading environment.
+
+#### Reading Habits
+
+1. Move your pen, pencil, or finger while reading.
+2. Understand the difference between hard copy and soft copy reading material.
+3. Do not translate each and every word while reading.
+4. After reading, try to recall and summarize what you understood.
+5. Identify important words after reading.
+
+```text
+Reading
+   ↓
+Understanding
+   ↓
+Important Words
+   ↓
+Vocabulary Improvement
+```
+
+---
 
 ## 🎯 Overall Goal
 
@@ -299,11 +379,12 @@ Better Exam Performance
 
 ## 📌 Status
 
-**Verbal Ability Q&A / Study Plan — Part 1 + Part 2 Completed ✅**
+**Verbal Ability Q&A / Study Plan — Part 1 + Part 2 + Part 3 Completed ✅**
 
 **Sessions Covered:**
 - Session 1–3 → Part 1
 - Session 4 → Part 2
+- Session 5–6 → Part 3
   
 **Areas Covered:**
 
@@ -324,4 +405,18 @@ Better Exam Performance
 - Telegram quizzes
 - Friday assignments
 - Newspaper reading progression
+
+**Focus Added in Part 3:**
+- Know Your Level
+- Practice-test performance analysis
+- Score-level classification
+- Weekly reading task
+- Story-summary writing
+- Movie-based comprehension questions
+- Adjective practice
+- Vocabulary-in-context practice
+- Reading environment
+- Reading habits
+- Avoiding word-by-word translation
+- Identifying important words
 

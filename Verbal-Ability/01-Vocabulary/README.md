@@ -90,6 +90,35 @@ Hurtle        → To move more rapidly
 
 ---
 
+## 📚 Vocabulary — Part 3
+
+The following words and meanings are taken from my handwritten vocabulary notes.
+
+### Words and Meanings
+
+| No. | Word | Meaning |
+|---:|---|---|
+| 26 | **Plummet** | Sudden fall |
+| 27 | **Decimated** | To destroy significantly |
+| 28 | **Vandalism** | Willful damage |
+| 29 | **Abate** | To put an end |
+| 30 | **Burnish** | To polish |
+
+---
+
+## 📝 Quick Revision — Part 3
+
+```text
+Plummet       → Sudden fall
+Decimated     → To destroy significantly
+Vandalism     → Willful damage
+Abate         → To put an end
+Burnish       → To polish
+```
+
+---
+---
+
 ## 🎯 Goal
 
 Build a strong vocabulary for **aptitude, competitive examinations, reading comprehension, and verbal ability** by learning new words, understanding their meanings, and revising them regularly.
@@ -110,7 +139,7 @@ Improve vocabulary
 
 ## 📌 Status
 
-**Vocabulary — Part 1 + Part 2 Completed ✅**
+**Vocabulary — Part 1 + Part 2 + Part-3 Completed ✅**
 
-**Total Words Covered: 25**
+**Total Words Covered: 30**
 

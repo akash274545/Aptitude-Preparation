@@ -44,6 +44,22 @@ This folder contains my **Idioms, Phrases, and Phrasal Verbs** notes and meaning
 
 
 ---
+## 📚 Part 3
+
+The following idioms and meanings are taken from my handwritten notes.
+
+### Idioms
+
+| No. | Idiom | Meaning |
+|---:|---|---|
+| 1 | **Bite the dust** | To be defeated |
+| 2 | **An apple of discord** | Cause of quarrel |
+| 3 | **If the shoe fits, wear it** | If something applies to you, then accept it |
+| 4 | **Dark horse** | Who wins unexpectedly |
+| 5 | **Burn one's boat** | No point of return |
+
+
+---
 
 ## 📝 Quick Revision
 
@@ -103,6 +119,25 @@ Cutthroat
 Palmy days
         → Prosperous / affluent days
 ```
+### Part 3 — Idioms
+
+```text
+Bite the dust
+        → To be defeated
+
+An apple of discord
+        → Cause of quarrel
+
+If the shoe fits, wear it
+        → If something applies to you, then accept it
+
+Dark horse
+        → Who wins unexpectedly
+
+Burn one's boat
+        → No point of return
+```
+
 ---
 
 ## 🎯 Goal
@@ -125,7 +160,7 @@ Improve verbal ability
 
 ## 📌 Status
 
-**Idioms, Phrases & Phrasal Verbs — Part 1 + Part 2 Completed ✅**
+**Idioms, Phrases & Phrasal Verbs — Part 1 + Part 2 + Part 3 Completed ✅**
 
 **Part 1 Idioms Covered: 5**
 
@@ -133,4 +168,6 @@ Improve verbal ability
 
 **Part 2 Idioms Covered: 5**
 
-**Total Expressions Covered: 15**
+**Part 3 Idioms Covered: 5**
+
+**Total Expressions Covered: 20**

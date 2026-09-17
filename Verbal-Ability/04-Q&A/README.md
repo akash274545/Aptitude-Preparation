@@ -377,14 +377,294 @@ Better Exam Performance
 
 ---
 
+## 📚 Part 4 — Session 7
+
+### Reading 2
+
+This session focuses on **reading methods, reading comprehension, paragraph understanding, and summary writing**.
+
+---
+
+### 1. Reading Preparation Structure
+
+The notes show the progression from letters to words, sentences, paragraphs, and finally passages.
+
+```text
+Alphabet
+   ↓
+Words
+   ↓
+Sentences
+   ↓
+Paragraphs
+   ↓
+Passages
+```
+
+The notes also connect reading with:
+
+```text
+Reading
+   ↓
+Understanding
+   ↓
+Question & Answer
+```
+
+---
+
+### 2. Alphabet and Letters
+
+The session revises the basic classification of the alphabet.
+
+- **Total letters:** 26
+- **Vowels:** A, E, I, O, U
+- **Consonants:** B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, Z
+
+```text
+Alphabet
+   ├── Vowels → A, E, I, O, U
+   └── Consonants → B, C, D, F, G, H, ... Z
+```
+
+---
+
+### 3. Types of Reading
+
+The notes describe three important reading methods.
+
+#### 3.1 Skimming
+
+**Meaning:** Reading quickly to understand the general idea and identify important words.
+
+```text
+Read Fast
+    ↓
+Find Important Words
+    ↓
+Leave the Rest
+```
+
+**Purpose:**
+
+- Understand the overall idea quickly.
+- Identify important words.
+- Get a general overview of the passage.
+
+---
+
+#### 3.2 Scanning
+
+**Meaning:** Reading to find a specific word, fact, number, or piece of information.
+
+```text
+Try to Find
+    ↓
+Specific Words / Information
+```
+
+**Purpose:**
+
+- Locate particular information.
+- Find names, dates, numbers, or keywords.
+- Save time while searching a passage.
+
+---
+
+#### 3.3 Analytical Reading
+
+**Meaning:** Reading carefully to understand the passage and answer questions based on it.
+
+```text
+Read Carefully
+      ↓
+Understand
+      ↓
+Ask Questions
+      ↓
+Read Again
+      ↓
+Answer
+```
+
+**Purpose:**
+
+- Improve understanding.
+- Identify the meaning and logic of the passage.
+- Answer comprehension questions accurately.
+
+
+---
+### 4. Passage and Comprehension
+
+The notes show that passages can be based on different forms of writing.
+
+```text
+Passages
+   ├── Story
+   ├── Scene
+   ├── Abstract / Exam Passage
+   ├── Conversation
+   └── Other Reading Material
+```
+
+The session also mentions **sentence formation** and understanding the structure of a passage.
+
+
+---
+
+### 5. Example of an Abstract Passage
+
+The notes give an example related to birds and their food habits.
+
+> Birds do not have teeth in their throat. Birds have a bulb or a storage bag. Food is digested by the gizzard.
+
+The example is used to practise:
+
+- Reading an abstract passage.
+- Finding the main idea.
+- Identifying important words.
+- Understanding sentence structure.
+- Preparing a summary and title.
+
+---
+
+
+### 6. Summary, Notes, and Title
+
+The notes explain the difference between a summary, notes, and a title.
+
+#### Summary
+
+- A summary expresses the main idea of a passage in a shorter form.
+- The notes mention approximately **one-third of the passage** as a guideline for summary length.
+
+#### Notes
+
+- Notes contain important points from the passage.
+- They may be written in short form.
+- Notes can focus on a story, scene, or important information.
+
+#### Title
+
+- A title gives the central idea of the passage.
+- The notes mention that a title is generally made using approximately **1–5 words**.
+
+```text
+Passage
+   ↓
+Important Words
+   ↓
+Sentence Format
+   ↓
+Summary
+```
+
+### Example
+
+```text
+Title: Birds' Food Habits
+```
+
+The title represents the main subject of the example passage.
+
+---
+
+### 7. How to Read
+
+The notes compare three reading approaches.
+
+#### 7.1 Vocalization
+
+Reading aloud or pronouncing the words while reading.
+
+| Area | Effect |
+|---|---|
+| Speed | ↓ |
+| Pronunciation | ↑ |
+| Focus | ↑ |
+| Understanding | ↓ |
+
+---
+
+#### 7.2 Subvocalization
+
+Reading silently while mentally pronouncing the words.
+
+| Area | Effect |
+|---|---|
+| Speed | → |
+| Pronunciation | → |
+| Understanding | ↑ |
+| Focus | ↑ |
+
+---
+
+#### 7.3 Silent Reading
+
+Reading without vocalizing or mentally pronouncing every word.
+
+| Area | Effect |
+|---|---|
+| Speed | ↑ |
+| Pronunciation | → |
+| Understanding | ↑ |
+| Focus | ↑ |
+
+```text
+Vocalization
+   → Pronunciation ↑
+   → Speed ↓
+
+Subvocalization
+   → Understanding ↑
+   → Focus ↑
+
+Silent Reading
+   → Speed ↑
+   → Understanding ↑
+   → Focus ↑
+```
+
+---
+## 🎯 Focus of Part 4
+
+- Reading progression from alphabet to passage
+- Vowels and consonants
+- Skimming
+- Scanning
+- Analytical reading
+- Passage comprehension
+- Abstract passages
+- Important words
+- Sentence formation
+- Summary writing
+- Note-making
+- Title selection
+- Vocalization
+- Subvocalization
+- Silent reading
+
+---
+
+
+
+
+
+
+
+
+
+
 ## 📌 Status
 
-**Verbal Ability Q&A / Study Plan — Part 1 + Part 2 + Part 3 Completed ✅**
+**Verbal Ability Q&A / Study Plan — Part 1 + Part 2 + Part 3 + Part-4 Completed ✅**
 
 **Sessions Covered:**
 - Session 1–3 → Part 1
 - Session 4 → Part 2
 - Session 5–6 → Part 3
+- Session 7 → Part 4
   
 **Areas Covered:**
 
@@ -419,4 +699,19 @@ Better Exam Performance
 - Reading habits
 - Avoiding word-by-word translation
 - Identifying important words
+
+**New Topics Added in Part 4:**
+- Reading 2
+- Reading structure
+- Alphabet, vowels, and consonants
+- Skimming
+- Scanning
+- Analytical reading
+- Passage types
+- Abstract passage comprehension
+- Summary, notes, and title
+- Vocalization
+- Subvocalization
+- Silent reading
+
 

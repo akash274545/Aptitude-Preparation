@@ -10,6 +10,7 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 
 - `Baisc-Quant-1.pdf` — handwritten notes and practice questions
 - `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
+- `Baisc-Quant-3.pdf` — handwritten notes covering new Basic Quant concepts and practice questions from Part 3.
 ---
 
 ## 📚 Session-Wise Topics

@@ -719,6 +719,256 @@ Better Calculation Speed
 ```
 
 ---
+# 📚 New Concepts Learned — Baisc-Quant-3
+
+The following concepts are newly added from the **third handwritten PDF**. The earlier Part 1 and Part 2 records are kept unchanged.
+
+## Session 7 — HCF and LCM
+
+This session introduces and practises **HCF (Highest Common Factor)** and **LCM (Least Common Multiple)**.
+
+### Definitions
+
+```text
+LCM → Least Common Multiple
+HCF → Highest Common Factor
+```
+
+The notes use examples such as:
+
+```text
+18, 12
+LCM = 36
+HCF = 6
+```
+
+### Basic Method
+
+The notes practise finding HCF and LCM using the common-factor / division method.
+
+```text
+HCF → Common factor
+LCM → Common multiple
+```
+
+Important observations recorded in the notes:
+
+```text
+HCF is smaller than or equal to the given numbers.
+
+LCM is greater than or equal to the given numbers.
+```
+
+### HCF and LCM Practice
+
+The new notes include practice sets involving:
+
+```text
+10, 12, 15, 20, 30
+144, 216, 288
+308, 196, 140
+36, 24, 48, 12, 18
+40, 60, 80, 20
+42, 28, 84, 21
+15, 20, 30, 10
+16, 18, 36, 24, 12
+4, 6, 8, 10, 12
+12, 15, 10, 30, 20
+72, 168, 96, 216
+224, 168, 336, 280
+21, 24, 42, 14, 56
+27, 18, 12, 9, 36
+32, 24, 12, 16, 8
+36, 18, 45, 40, 72
+15, 24, 20, 12, 30
+```
+
+### 🧠 Bhramastra — Important LCM List
+
+The notes contain a quick-reference list of frequently used LCM combinations.
+
+```text
+6 & 8   → 24
+6 & 9   → 18
+6 & 12  → 12
+12 & 8  → 24
+12 & 9  → 36
+12 & 10 → 60
+12 & 14 → 84
+12 & 15 → 60
+12 & 16 → 48
+12 & 18 → 36
+12 & 20 → 60
+12 & 24 → 24
+12 & 27 → 108
+16 & 14 → 112
+16 & 15 → 240
+16 & 18 → 144
+16 & 20 → 80
+16 & 24 → 48
+18 & 14 → 126
+18 & 15 → 90
+18 & 20 → 180
+18 & 24 → 72
+18 & 27 → 54
+18 & 30 → 90
+24 & 15 → 120
+24 & 20 → 120
+24 & 30 → 120
+36 & 27 → 108
+36 & 30 → 180
+36 & 40 → 360
+36 & 48 → 144
+36 & 45 → 180
+40 & 45 → 360
+```
+
+The notes also include multi-number LCM practice:
+
+```text
+2, 4, 6, 8, 10, 12     → 120
+10, 12, 15, 20, 30     → 60
+15, 20, 24, 30, 40     → 120
+16, 18, 24, 36, 48     → 144
+```
+
+---
+
+# 🧮 HCF & LCM — Homework Practice
+
+The third PDF contains a dedicated homework section for solving HCF and LCM together.
+
+The practice covers:
+
+- Three-number HCF and LCM
+- Four-number HCF and LCM
+- Five-number HCF and LCM
+- Prime-factor / division-table approach
+- Repeated division method
+- Using HCF and LCM together in the same problem
+
+The handwritten work includes complete calculations for the practice sets.
+
+---
+
+# 📚 Session 8 — Fractions
+
+The next session introduces **Fractions-1**.
+
+### Fraction + LCM Connection
+
+The notes connect fraction calculations with LCM.
+
+The main idea is:
+
+```text
+Fractions
+    ↓
+Find LCM of denominators
+    ↓
+Convert fractions to a common denominator
+    ↓
+Add / simplify
+```
+
+### Methods Practised
+
+The notes record multiple approaches:
+
+```text
+1. Basic Method
+2. Bhramastra Method
+3. Table-start method
+```
+
+The table-start method is used by starting from the larger number and checking multiples when finding the LCM.
+
+### LCM Examples with Fractions
+
+The notes practise LCM for groups such as:
+
+```text
+4, 8, 12, 8, 24, 32
+8, 6, 12, 16, 24, 4
+16, 12, 15, 20, 30
+8, 6, 16, 9, 36, 18, 48, 12
+```
+
+The notes also show different ways of reaching the same LCM, such as:
+
+```text
+36 and 48 → LCM = 144
+```
+
+---
+
+## ➕ Fraction Addition Practice
+
+The new notes contain fraction-addition problems with both equal and different denominators.
+
+Examples recorded in the notes include:
+
+```text
+7/12 + 17/12
+
+5/6 + 7/8
+
+11/12 + 7/10 + 13/15 + 17/20
+
+11/12 + 5/6 + 7/8 + 19/24
+
+1/2 + 3/4 + 5/6 + 7/9 + 11/12
+```
+
+The working method repeatedly uses:
+
+```text
+Find LCM of denominators
+        ↓
+Convert each fraction
+        ↓
+Add numerators
+        ↓
+Simplify the result
+```
+
+---
+
+## 🔗 Connection Between LCM and Fractions
+
+A major concept learned in Part 3 is that **LCM is an important tool for adding fractions with different denominators**.
+
+```text
+LCM
+ ↓
+Common denominator
+ ↓
+Fraction conversion
+ ↓
+Addition
+ ↓
+Simplification
+```
+
+---
+
+
+- Understand the definitions of HCF and LCM.
+- Remember that HCF means Highest Common Factor.
+- Remember that LCM means Least Common Multiple.
+- Practise the basic HCF and LCM method.
+- Use factorisation / division steps to find HCF and LCM.
+- Memorise important LCM combinations from the Bhramastra list.
+- Practise HCF and LCM for 2, 3, 4 and 5 numbers.
+- Use the table-start method when it is useful for finding LCM.
+- Understand the connection between LCM and fractions.
+- Find the LCM of denominators before adding fractions with different denominators.
+- Practise converting fractions to a common denominator.
+- Simplify the final fraction after addition.
+
+
+
+---
 
 
 
@@ -757,7 +1007,7 @@ Better Calculation Speed
 
 ## 🎯 Goal
 
-Build speed and accuracy in Basic Quantitative Aptitude by mastering squares, cubes, unit digits, square-root calculations, decimal calculations, number classification, HCF, and speed factorization.
+Build speed and accuracy in Basic Quantitative Aptitude by mastering squares, cubes, unit digits, square-root calculations, decimal calculations, number classification, HCF, LCM, fractions, and speed factorization.
 
 ```text
 Learn the square table
@@ -772,7 +1022,9 @@ Learn decimal calculations
         ↓
 Understand important number types
         ↓
-Practise HCF
+Practise HCF and LCM
+        ↓
+Use LCM for fraction calculations
         ↓
 Master speed factorization
         ↓
@@ -783,7 +1035,7 @@ Solve questions quickly and accurately
 
 ## 📌 Status
 
-**Basic Quantitative Aptitude — Part 1 + Part 2 Completed ✅**
+**Basic Quantitative Aptitude — Part 1 + Part 2 + Part 3 Completed ✅**
 
 ### Completed Topics
 
@@ -826,4 +1078,24 @@ Solve questions quickly and accurately
 - Factor-pair practice
 - Factorization for faster HCF / LCM / fraction calculations
 
-**Baisc-Quant-2 — New Concepts Completed ✅**
+### Newly Added in Part 3
+
+- HCF and LCM definitions
+- Basic HCF method
+- Basic LCM method
+- HCF and LCM comparison
+- HCF and LCM practice with multiple numbers
+- Bhramastra LCM method / important LCM list
+- Important LCM combinations
+- HCF and LCM homework practice
+- Session 8 — Fractions-1
+- Basic method for fraction-related LCM
+- Bhramastra method for fraction-related LCM
+- Table-start method for LCM
+- LCM of multiple denominators
+- Fraction addition
+- Common-denominator method
+- Fraction simplification
+
+**Baisc-Quant-3 — New Concepts Completed ✅**
+

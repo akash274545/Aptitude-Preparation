@@ -9,7 +9,7 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 ## 📄 Study Material
 
 - `Baisc-Quant-1.pdf` — handwritten notes and practice questions
-
+- `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
 ---
 
 ## 📚 Session-Wise Topics
@@ -324,6 +324,404 @@ This section contains direct square practice. The answer is the square of the gi
 
 ---
 
+# 📚 New Concepts Learned — Baisc-Quant-2
+
+The following concepts are newly added from the second handwritten PDF. The earlier record above is kept unchanged.
+
+## Session 5 — Cube Roots and Unit-Digit Methods
+
+The notes introduce **cube-root calculations** and cube-root identification.
+
+### Exact Cube-Root Examples
+
+```text
+∛1296  → 34   [as recorded in the notes]
+∛961   → 31
+∛1681  → 41
+∛15341 → 115
+∛19321 → 139
+```
+
+The notes also practise identifying perfect squares/cubes from their last digits.
+
+### Unit-Digit Rule for Cube Roots
+
+The notes record the unit-digit possibilities for cubes:
+
+```text
+1 → 1
+2 → 8
+3 → 7
+4 → 4
+5 → 5
+6 → 6
+7 → 3
+8 → 2
+9 → 9
+0 → 0
+```
+
+This is used to identify the possible unit digit of a cube root.
+
+---
+
+## Session 5 — Perfect Square and Perfect Cube Identification
+
+The notes also practise identifying whether a number can be a perfect square/cube using its unit digit.
+
+### Important Square Unit Digits
+
+```text
+0, 1, 4, 5, 6, 9
+```
+
+Numbers ending in:
+
+```text
+2, 3, 7, 8
+```
+
+cannot be perfect squares.
+
+The notes also use the **upper/comparison approach** with nearby perfect squares for values such as:
+
+```text
+√9025  → 95
+√4225  → 65
+√30625 → 175
+√64009 → 253
+√14400 → 120
+√900   → 30
+```
+
+---
+
+# 🔢 Decimal Concepts
+
+## Session 5 — Decimal Squares
+
+The notes extend square calculations to decimal numbers.
+
+Examples recorded in the notes:
+
+```text
+(2.4)²   = 5.76
+(0.24)²  = 0.0576
+(0.024)² = 0.000576
+```
+
+The concept is to observe how the decimal places change when a number is squared.
+
+---
+
+## 🔢 Decimal Cubes
+
+The same idea is applied to cubes.
+
+Examples:
+
+```text
+(0.8)³   = 0.512
+(0.08)³  = 0.000512
+(0.008)³ = 0.000000512
+```
+
+The notes mark this as a **×3 decimal-place concept** because cubing multiplies the number of decimal places by three.
+
+---
+
+## √ Decimal Square Roots
+
+The notes practise shifting decimal places while finding square roots.
+
+Examples:
+
+```text
+√676     = 26
+√6.76    = 2.6
+√0.0676  = 0.26
+√0.000676 = 0.026
+```
+
+The notes use this as a decimal square-root relationship.
+
+---
+
+## ∛ Decimal Cube Roots
+
+The same decimal-place concept is applied to cube roots.
+
+Examples recorded:
+
+```text
+∛1331      = 11
+∛1.331     = 1.1
+∛0.001331  = 0.11
+```
+
+---
+
+## 🔢 Decimal Division
+
+The notes practise division with decimal numbers by shifting decimal places.
+
+Example:
+
+```text
+144 ÷ 3       = 48
+14.4 ÷ 3      = 4.8
+0.144 ÷ 3     = 0.048
+```
+
+Another recorded pattern:
+
+```text
+144 ÷ 0.003 = 48000
+```
+
+The notes also record:
+
+```text
+N → backside
+D → number of zeros
+```
+
+as a reminder for handling decimal-place/zero movement.
+
+---
+
+# 📌 Important Numbers
+
+The notes introduce the basic classification of numbers.
+
+### 1. Whole Numbers
+
+```text
+0, 1, 2, 3, 4, 5, ... ∞
+```
+
+### 2. Natural Numbers
+
+```text
+1, 2, 3, 4, 5, ... ∞
+```
+
+### 3. Even Numbers
+
+```text
+0, 2, 4, 6, 8, 10, ... ∞
+```
+
+### 4. Odd Numbers
+
+```text
+1, 3, 5, 7, 9, ... ∞
+```
+
+### 5. Integers
+
+The notes represent integers as:
+
+```text
+... -3, -2, -1, 0, 1, 2, 3, ... ∞
+```
+
+They include both negative and positive numbers.
+
+---
+
+# 🔢 Prime Numbers
+
+The notes include practice and memorisation of prime numbers.
+
+Examples from the recorded list:
+
+```text
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29,
+31, 37, 41, 43, 47, 53, 59, 61, 67, 71,
+73, 79, 83, 89, 97
+```
+
+The notes also record:
+
+```text
+1–100   → 25 prime numbers
+101–200 → 21 prime numbers
+```
+
+---
+
+# 🔢 Composite Numbers
+
+The notes give examples of composite numbers such as:
+
+```text
+4, 6, 8, 9, 10, 12, 14, 15, 16, 18,
+20, 21, ...
+```
+
+### Important Point
+
+```text
+1 is neither Prime nor Composite.
+```
+
+---
+
+# 🧮 HCF with Decimal Numbers
+
+The new notes also introduce **HCF calculations involving decimal numbers**.
+
+The handwritten examples use decimal conversion and factor-based simplification before finding the HCF.
+
+### Decimal HCF Idea
+
+```text
+Convert decimal values
+        ↓
+Remove decimal places appropriately
+        ↓
+Find HCF
+        ↓
+Adjust according to the decimal places
+```
+
+The PDF contains several worked HCF examples using decimal values.
+
+---
+
+# 🧮 Decimal-1 Practice
+
+The notes contain a separate **Decimal-1** practice section.
+
+The questions combine:
+
+- Decimal powers
+- Square roots
+- Cube roots
+- Decimal multiplication
+- Decimal division
+- Simplification using root values
+- Cancellation of factors
+
+The handwritten solutions repeatedly use the relationship between decimal places and powers/roots.
+
+A common working pattern is:
+
+```text
+Convert the decimal into a suitable form
+        ↓
+Apply square/cube or root
+        ↓
+Cancel common factors
+        ↓
+Simplify
+```
+
+---
+
+# 🧮 Decimal-2 Practice
+
+A second practice set, titled **Decimal-2**, continues the same type of problems.
+
+The questions combine:
+
+- Square roots of decimals
+- Cube roots
+- Decimal multiplication
+- Decimal division
+- Powers
+- Factor cancellation
+- Simplification
+
+The notes show the use of **exponent rules, cancellation, and root simplification** to reach the final answers.
+
+Examples of recorded final answers include:
+
+```text
+144
+19200
+0.000228
+```
+
+and other worked simplifications are present in the handwritten pages.
+
+---
+
+# ⚡ Speed — Factorization
+
+The final pages introduce **Speed Factorization**.
+
+The notes identify four useful areas:
+
+```text
+1. Tables
+2. Factors
+3. LCM
+4. Fractions
+```
+
+The main practice focuses on quickly finding factor pairs.
+
+---
+
+## 🔢 Factorization Practice
+
+The notes practise factor pairs for numbers from the following set:
+
+```text
+38, 48, 54, 56, 60,
+72, 80, 84, 90, 96,
+105, 108, 112, 120,
+126, 144, 150, 156,
+168, 180, 132
+```
+
+### Examples
+
+```text
+38 → 2 × 19
+
+48 → 2 × 24
+      3 × 16
+      4 × 12
+      6 × 8
+
+54 → 2 × 27
+      3 × 18
+      6 × 9
+
+56 → 2 × 28
+      4 × 14
+      7 × 8
+
+60 → 2 × 30
+      3 × 20
+      4 × 15
+      5 × 12
+      6 × 10
+```
+
+The same factor-pair method is continued for larger numbers such as **72, 80, 84, 90, 96, 105, 108, 112, 120, 126, 144, 150, 156, 168, 180, and 132**.
+
+### Purpose of Speed Factorization
+
+```text
+Quick Tables
+     ↓
+Quick Factors
+     ↓
+Fast LCM / HCF
+     ↓
+Fast Fraction Simplification
+     ↓
+Better Calculation Speed
+```
+
+---
+
+
+
 ## 📌 Revision Points
 
 - Memorise squares from **1 to 30** first.
@@ -338,18 +736,45 @@ This section contains direct square practice. The answer is the square of the gi
 
 ---
 
+## 📌 Revision Points — New Concepts
+
+- Practise cube roots along with square roots.
+- Remember the unit-digit possibilities of cubes.
+- Use unit digits to identify possible square/cube roots.
+- Practise decimal squares and decimal cubes.
+- Understand how decimal places change under squares and cubes.
+- Practise decimal square roots and cube roots.
+- Revise whole, natural, even, odd, and integer numbers.
+- Memorise important prime numbers.
+- Remember that **1 is neither prime nor composite**.
+- Practise HCF involving decimal numbers.
+- Practise Decimal-1 and Decimal-2 simplification problems.
+- Improve calculation speed through factorisation.
+- Memorise common factor pairs for frequently used numbers.
+- Use fast factorisation for HCF, LCM, and fraction calculations.
+
+---
+
 ## 🎯 Goal
 
-Build speed and accuracy in Basic Quantitative Aptitude by mastering squares, cubes, unit digits, and square-root calculations.
+Build speed and accuracy in Basic Quantitative Aptitude by mastering squares, cubes, unit digits, square-root calculations, decimal calculations, number classification, HCF, and speed factorization.
 
 ```text
 Learn the square table
         ↓
-Memorise important squares and cubes
+Master squares and cubes
         ↓
 Understand unit-digit patterns
         ↓
-Practise square-root methods
+Practise square roots and cube roots
+        ↓
+Learn decimal calculations
+        ↓
+Understand important number types
+        ↓
+Practise HCF
+        ↓
+Master speed factorization
         ↓
 Solve questions quickly and accurately
 ```
@@ -358,7 +783,7 @@ Solve questions quickly and accurately
 
 ## 📌 Status
 
-**Basic Quantitative Aptitude — Part 1 Completed ✅**
+**Basic Quantitative Aptitude — Part 1 + Part 2 Completed ✅**
 
 ### Completed Topics
 
@@ -374,3 +799,31 @@ Solve questions quickly and accurately
 - Square-root practice sets
 - Finding squares from given numbers
 - Square and square-root answer practice
+
+### Newly Added in Part 2
+
+- Cube-root concepts
+- Cube-root unit-digit possibilities
+- Perfect square / perfect cube identification
+- Decimal squares
+- Decimal cubes
+- Decimal square roots
+- Decimal cube roots
+- Decimal division
+- Important number classifications
+- Whole numbers
+- Natural numbers
+- Even numbers
+- Odd numbers
+- Integers
+- Prime numbers
+- Composite numbers
+- HCF with decimal numbers
+- Decimal-1 practice
+- Decimal-2 practice
+- Exponent and root simplification
+- Speed factorization
+- Factor-pair practice
+- Factorization for faster HCF / LCM / fraction calculations
+
+**Baisc-Quant-2 — New Concepts Completed ✅**

@@ -11,6 +11,7 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 - `Baisc-Quant-1.pdf` — handwritten notes and practice questions
 - `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
 - `Baisc-Quant-3.pdf` — handwritten notes covering new Basic Quant concepts and practice questions from Part 3.
+- `Basic-Quant-4.pdf` — handwritten notes covering **Fraction-2**, mixed fractions, fraction conversion, addition and subtraction of fractions, whole-number operations with fractions, and fraction-based practice/homework. 
 ---
 
 ## 📚 Session-Wise Topics
@@ -971,6 +972,153 @@ Simplification
 
 ---
 
+# 📚 Part 4 — Fractions-2
+
+### Session 9 — Fraction-2
+
+The new notes focus on **fractions and mixed fractions**, with worked examples and practice questions. The session is dated **18/09/2024** in the handwritten notes. 
+
+### Concepts Learned
+
+- Converting **improper fractions into mixed numbers**
+- Converting **mixed numbers into improper fractions**
+- Working with proper and improper fractions
+- Addition of mixed fractions
+- Subtraction of mixed fractions
+- Addition and subtraction of fractions having different denominators
+- Finding a common denominator before performing operations
+- Simplifying fractional results
+- Operations involving whole numbers and fractions
+- Solving multi-term fraction expressions
+- Fraction-based calculation practice
+
+### Fraction Conversion Examples
+
+```text
+22/5       → 4 2/5
+123/13     → 9 6/13
+78/7       → 11 1/7
+17 11/13   → 232/13
+5 3/4      → 23/4
+20 5/7     → 145/7
+```
+
+### Method Used
+
+For converting a mixed number into an improper fraction:
+
+```text
+Whole Number × Denominator
+          +
+       Numerator
+          ↓
+      New Numerator
+          ↓
+     Same Denominator
+```
+
+For converting an improper fraction into a mixed number:
+
+```text
+Numerator ÷ Denominator
+        ↓
+Quotient + Remainder
+        ↓
+Mixed Number
+```
+
+---
+
+## ➕ Addition of Fractions
+
+The notes contain practice involving multiple fractions and mixed numbers.
+
+General working pattern used:
+
+```text
+Separate whole-number parts
+          +
+Convert fraction parts to a common denominator
+          ↓
+Add the numerators
+          ↓
+Simplify the result
+```
+
+Practice includes expressions containing fractions such as:
+
+```text
+13 12/18 + 11 7/9 + 20 5/6 + 2/3
+```
+
+and other multi-term fraction calculations. 
+
+---
+
+## ➖ Subtraction of Fractions
+
+The notes also include subtraction involving:
+
+- Whole numbers minus fractions
+- Mixed numbers
+- Fractions with different denominators
+- Multiple-term subtraction
+- Positive and negative fractional results
+
+Examples of the type of practice recorded include:
+
+```text
+Whole number − mixed fraction
+Mixed fraction − mixed fraction
+Fraction − fraction
+```
+
+The handwritten work shows repeated use of denominator conversion before completing the subtraction. 
+
+---
+
+## 📝 Fraction Practice
+
+The Part 4 notebook contains:
+
+- Worked fraction-conversion examples
+- Mixed-fraction addition practice
+- Mixed-fraction subtraction practice
+- Whole-number and fraction calculations
+- A separate **Homework** section
+- **16 numbered practice questions** across the handwritten pages
+
+The homework continues through pages 2–5 and includes both addition and subtraction of fractions/mixed fractions. 
+
+---
+
+## 🧠 Important Fraction Skills
+
+```text
+Improper Fraction
+       ↓
+Mixed Number
+       ↓
+Common Denominator
+       ↓
+Addition / Subtraction
+       ↓
+Simplification
+       ↓
+Final Answer
+```
+
+### Key Practice Points
+
+- Convert fractions correctly before calculation.
+- Keep the denominator common when adding or subtracting.
+- Separate whole-number and fractional parts when useful.
+- Simplify the final fraction.
+- Practise both positive and negative fractional results.
+- Solve multi-term expressions step by step.
+
+---
+
 
 
 ## 📌 Revision Points
@@ -1036,7 +1184,7 @@ Solve questions quickly and accurately
 
 ## 📌 Status
 
-**Basic Quantitative Aptitude — Part 1 + Part 2 + Part 3 Completed ✅**
+**Basic Quantitative Aptitude — Part 1 + Part 2 + Part 3 + Part 4 Completed ✅**
 
 ### Completed Topics
 
@@ -1100,3 +1248,19 @@ Solve questions quickly and accurately
 
 **Baisc-Quant-3 — New Concepts Completed ✅**
 
+### Newly Added in Part 4
+
+- Fraction-2
+- Fraction conversion
+- Improper fraction → mixed number
+- Mixed number → improper fraction
+- Addition of fractions
+- Subtraction of fractions
+- Mixed-fraction calculations
+- Common-denominator method
+- Whole-number and fraction operations
+- Multi-term fraction expressions
+- Fraction practice
+- Fraction homework — 16 questions
+
+**Part 4 Topic: Fractions-2 ✅**

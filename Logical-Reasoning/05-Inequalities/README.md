@@ -899,6 +899,341 @@ Select the correct option
 
     Conclusions: I. R > C (T) | II. P > U (T) | III. R ≤ U (F) | IV. P ≥ T (T)
 ---
+
+## 🧪 Session 6 — Inequality 5
+
+The new session focuses on **advanced inequality practice**, especially placing inequality symbols correctly and identifying relationships that are definitely true or definitely false.
+
+### Topics Learned
+
+- Placing inequality symbols in blank spaces
+- Making a comparison definitely true
+- Making a comparison definitely false
+- Checking `>`, `<`, `=`, `≥`, and `≤`
+- Solving chained inequality expressions
+- Finding the correct relationship between variables
+- Question-mark replacement in inequality chains
+- Evaluating multiple-choice inequality expressions
+
+---
+
+## 📝 Session 6 — Notebook Questions
+
+The following questions are added from my handwritten notebook.
+
+### Question 45
+
+```text
+Which symbols should be placed in the blank spaces (from left to right)
+so that both "H ≥ F" and "G ≤ I" definitely hold true?
+
+H ? A ? F ? G ? I
+```
+
+Options:
+
+- A) `≥, ≥, <, =`
+- B) `>, >, ≥, <`
+- C) `≥, ≥, ≤, ≤`
+- D) `≥, =, ≥, <`
+- E) Other
+
+**Notebook-marked Answer: D**
+
+---
+
+### Question 46
+
+```text
+In which of the following expressions does "I ≤ Z"
+definitely hold true?
+```
+
+Options:
+
+- A) `K ≥ I ≤ R = P < S ≤ Z`
+- B) `U ≥ Z ≥ M = F ≤ A ≥ I`
+- C) `I ≥ C > Q ≥ B = N ≤ Z`
+- D) `G ≥ I = A < B ≤ S ≠ Z`
+- E) `Z ≥ E = G ≥ N = Y ≥ I`
+
+**Notebook-marked Answer: E**
+
+---
+
+### Question 47
+
+```text
+Which of the following expressions is true if
+"P < T ≤ B > S > M ≥ A" is definitely true?
+```
+
+Options:
+
+- A) `A ≤ P`
+- B) `S < P`
+- C) `M > P`
+- D) `A < B`
+- E) `T ≤ M`
+
+**Notebook-marked Answer: D**
+
+---
+
+### Question 48
+
+```text
+What should come in place of the blank spaces to make
+"L ≤ H" and "I > K" always true?
+
+L ? K ? H ? I ? J
+```
+
+Options:
+
+- A) `=, ≤, <, >`
+- B) `<, ≥, >, <`
+- C) `≥, ≥, =, =`
+- D) `≥, <, >, ≤`
+- E) None of these
+
+**Notebook-marked Answer: A**
+
+---
+
+### Question 49
+
+```text
+What should come in place of the question mark so as to make
+"B > C" always false?
+
+B > D ? F = A ≥ C
+```
+
+Options:
+
+- A) `=`
+- B) `>`
+- C) `≥`
+- D) `<`
+- E) Can't be determined
+
+**Notebook-marked Answer: D**
+
+---
+
+### Question 50
+
+```text
+What should be placed in place of the question marks
+to make "P > C" always true?
+
+P ? K ? L ? D = C ≥ F
+```
+
+Options:
+
+- A) `>, <, =`
+- B) `>, >, =`
+- C) `≥, <, =`
+- D) `<, ≤, =`
+- E) None
+
+**Notebook-marked Answer: B**
+
+---
+
+### Question 51
+
+```text
+What should be placed in place of the question marks
+to make "A > S" always true?
+
+B = A ? N ? K ? S
+```
+
+Options:
+
+- A) `=, >, ≥`
+- B) `=, <, ≤`
+- C) `≥, ≥, <`
+- D) `=, >, ≤`
+- E) None of these
+
+**Notebook-marked Answer: A**
+
+---
+
+### Question 52
+
+```text
+What should be placed in place of the question marks
+to make "K ≥ V" and "M > V" always true?
+
+M ? K ? L ? S ? V
+```
+
+Options:
+
+- A) `<, =, ≤, ≤`
+- B) `≥, =, ≥, ≥`
+- C) `=, =, ≥, ≥`
+- D) `≥, =, ≥, =`
+- E) None of these
+
+**Notebook-marked Answer: B**
+
+
+
+---
+
+### Question 53
+
+```text
+What should be placed in place of the question marks
+to make "K > Y" always true?
+
+X < Y ? Z ? W < J ? K
+```
+
+Options:
+
+- A) `≥, =, <`
+- B) `≥, =, ≥`
+- C) `≤, =, ≤`
+- D) `=, <, >`
+- E) None of these
+
+**Notebook-marked Answer: C**
+
+---
+
+### Question 54
+
+```text
+Which of the following expressions will be true if
+"H ≤ G = K > F" is definitely true?
+```
+
+Options:
+
+- A) `K ≥ H`
+- B) `G = F`
+- C) `H ≥ F`
+- D) `F ≥ G`
+- E) None of these
+
+**Notebook-marked Answer: A**
+
+---
+
+### Question 55
+
+```text
+Which of the following expressions will NOT be true if
+"P ≤ Q < R = S" is definitely true?
+```
+
+Options:
+
+- A) `S ≥ P`
+- B) `P < R`
+- C) `S > Q`
+- D) `P > S`
+- E) `First & Fourth Follow`
+
+**Notebook-marked Answer: E**
+
+---
+
+### Question 56
+
+```text
+In which of the following expressions does "W < Z"
+hold true?
+```
+
+Options:
+
+- A) `W > Y < X ≤ Z`
+- B) `Z > X ≤ Y ≤ W`
+- C) `Z ≥ Y > X ≥ W`
+- D) `Z > Y = X < W`
+- E) `Z ≥ X > Y ≤ W`
+
+**Notebook-marked Answer: C**
+
+---
+
+### Question 57
+
+```text
+In which of the following expressions will "L < R"
+be definitely true?
+```
+
+Options:
+
+- A) `L ≥ M > N = R`
+- B) `L = M < N > R`
+- C) `L < M ≤ N ≤ R`
+- D) `R ≥ M = N < L`
+- E) None of these
+
+**Notebook-marked Answer: C**
+
+---
+
+### Question 58
+
+```text
+In which of the following expressions does "D > A"
+NOT hold true?
+```
+
+Options:
+
+- A) `A < B ≤ C = D`
+- B) `D ≥ B > C ≥ A`
+- C) `A ≤ B = C < D`
+- D) `D ≥ C ≥ B > A`
+- E) `A > B ≤ C = D`
+
+**Notebook-marked Answer: E**
+
+---
+
+### Question 59
+
+```text
+In which of these expressions will "I > E"
+be definitely false?
+```
+
+Options:
+
+- A) `I > P ≥ Q = G ≥ R > E`
+- B) `P < A ≤ I ≤ T ; E ≥ O > T `
+- C) `E ≥ A ≥ L = R < I`
+- D) `I > C ≥ F ≤ H ; E < F`
+- E) `I > T = O ≥ P ; E < J = P`
+
+
+
+---
+## 📊 Session 6 Practice Coverage
+
+- Questions **45–59**
+- Symbol-placement questions
+- Definitely-true questions
+- Definitely-false questions
+- Question-mark replacement
+- Chain comparison
+- Mixed inequality symbols
+- Multiple-choice inequality analysis
+- Advanced inequality practice
+
+---
 ## 🧠 Quick Revision
 
 ```text
@@ -957,3 +1292,9 @@ Select the correct option
 - Statement and conclusion questions
 - Exam-level practice & Direction-based questions 1–25
 - Additional questions (1–10) & Advanced HW Set (11–43)
+- Symbol placement
+- Definitely true / definitely false analysis
+- Question-mark replacement
+- Advanced inequality chains
+- Mixed-symbol comparison practice
+- Session 6 notebook questions **45–59**

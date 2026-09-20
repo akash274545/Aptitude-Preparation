@@ -1816,6 +1816,161 @@ Fifth → Select the answer
 ```
 
 ---
+
+## 📚 Session 8 — Inequality 7
+
+### Either-Or Condition
+
+The **Either-Or** condition represents **possibility**. It is used when two conclusions cannot both be true at the same time, but one of them may be true.
+
+### Rules for Either-Or / Possibility
+
+#### Relation
+1. The variables must be the same.
+2. Both conclusions should be individually false.
+3. Add the symbols:
+   - If the resultant relationship is **true**, the answer is **Either-Or**.
+   - If the resultant relationship is **false**, the answer is **Neither**.
+
+#### Non-Relation
+1. There should be **no relationship between the variables**.
+2. Both conclusions should be individually false.
+3. The variables should be the same.
+4. Pick a variable and check that `>`, `<`, or `=` appears only once; if a relation is repeated or missing, the result is **Neither**.
+
+### Example — Either-Or
+
+```text
+P ≥ Q ≥ R
+
+1. P > R  → False
+2. P = R  → False
+
+P ≥ R  → True
+
+Answer → Either-Or
+```
+
+### Practice Questions — Session 8
+
+#### Question 1
+
+**Statement:** `A ≥ B, B ≥ C, C ≥ D`
+
+1. `A > B` — False
+2. `A = B` — False
+
+**Result:** `A ≥ B` — True → **Either-Or**
+
+3. `B > D` — False
+4. `B = D` — False
+
+**Result:** `B ≥ D` — True → **Either-Or**
+
+5. `D > B` — False
+6. `D = B` — False
+
+**Result:** `D ≥ B` — False → **Neither**
+
+#### Question 2 — Exceptional Case
+
+**Statement:** `P ≥ Q = R`
+
+1. `P > R` — False
+2. `P = R` — False
+
+`P ≥ R` — True → **Either-Or**
+
+#### Question 3 — Exceptional Case
+
+**Statement:** `A ≥ B > C`
+
+1. `A > C` — True
+2. `A = C` — False
+
+Since conclusion I is already true, this is **not an Either-Or case**.
+
+#### Question 4
+
+**Statement:** `A ≥ B, C ≤ D > E = F ≥ G`
+
+1. `A > C` — False
+2. `A = C` — False
+
+`A ≥ C` — False → **Neither**
+
+3. `C > E` — False
+4. `C = E` — False
+
+`C ≥ E` — False → **Neither**
+
+5. `D > F` — True
+6. `D = F` — False
+
+`D ≥ F` — True → **Only conclusion I is true**
+
+7. `E > G` — False
+8. `E = G` — False
+
+`E ≥ G` — True → **Either-Or**
+
+#### Question 5
+
+**Statement:** `P = Q = R ≥ S ≥ T = U`
+
+1. `P > Q` — False
+2. `P = Q` — True
+
+`P ≥ Q` — True → **Either-Or**
+
+3. `Q > S` — False
+4. `R = S` — False
+
+`Q ≥ S` — True → **Either-Or**
+
+5. `R > T` — False
+6. `R = T` — False
+
+`R ≥ T` — True → **Either-Or**
+
+7. `S > T` — False
+8. `S = U` — False
+
+`S ≥ U` — True → **Either-Or**
+
+---
+## 🧠 Quick Revision — Either-Or Condition
+
+```text
+Either-Or
+    ↓
+Possibility
+    ↓
+Check both conclusions individually
+    ↓
+Both must be false
+    ↓
+Combine the symbols
+    ↓
+Result TRUE  → Either-Or
+Result FALSE → Neither
+```
+
+### Important Point
+
+```text
+A ≥ B
+
+A > B  → False
+A = B  → False
+
+A ≥ B  → True
+
+Therefore → Either-Or
+```
+
+
+---
 ## 🧠 Quick Revision
 
 ```text
@@ -1885,6 +2040,10 @@ Select the correct option
 - **Conversion of coded inequalities**
 - **Session 7 notebook questions 59–78**
 - **Coded inequality homework questions 1–10**
+- Either-Or / Possibility condition
+- Relation and Non-Relation rules for Either-Or
+- Exceptional cases
+- Either-Or practice questions from Session 8
 ---
 ### New Focus in Session 7
 

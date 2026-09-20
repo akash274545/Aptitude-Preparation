@@ -1234,6 +1234,588 @@ Options:
 - Advanced inequality practice
 
 ---
+## 📄 Study Material — Part 4
+
+- `Inequalities-Part-4.pdf` — handwritten notes covering **Coded Inequalities**, coded-symbol relationships, statement-and-conclusion practice, and additional inequality questions.
+
+
+
+---
+
+## 🧪 Session 7 — Inequality 6
+
+The new session focuses on **Coded Inequalities**, where special symbols are used to represent different inequality relationships.
+
+### Topics Learned
+
+- Coded inequality symbols
+- Decoding symbols into standard inequality signs
+- Understanding relationships represented by coded symbols
+- Converting coded statements into normal inequalities
+- Solving statement-and-conclusion questions
+- Identifying conclusions that are definitely true
+- Comparing multiple variables through coded relationships
+- Handling mixed inequality chains
+- Applying coded inequalities to exam-level questions
+
+### Coded Inequality — Symbol Meanings
+
+The notebook introduces coded symbols representing these relationships:
+
+```text
+Smaller than
+        ↓
+        <
+
+Smaller than or equal to
+        ↓
+        ≤
+
+Greater than
+        ↓
+        >
+
+Greater than or equal to
+        ↓
+        ≥
+
+Equal to
+        ↓
+        =
+```
+
+The main idea is:
+
+```text
+Coded Symbol
+      ↓
+Decode its meaning
+      ↓
+Convert into >, <, =, ≥, ≤
+      ↓
+Build the inequality chain
+      ↓
+Check the required conclusion
+```
+
+---
+## 📝 Session 7 — Notebook Questions
+
+The following questions are added from my handwritten notebook.
+
+### Question 59
+
+```text
+A ≥ M, I > L, K < P, A ≥ L
+```
+
+Options:
+
+- A) `K < L` — False
+- B) `A > P` — False
+- C) `L ≤ A` — True
+- D) `M < P` — False
+
+
+
+---
+
+### Question 60
+
+```text
+W ≤ N, K ≤ V, Y > V, W > K
+```
+
+Options:
+
+- A) `Y > K` — True
+- B) `W ≥ N` — False
+- C) `W > T` — False
+- D) `W > V` — False
+
+
+
+---
+
+### Question 61
+
+```text
+T ≤ Y, S < M, Y ≥ S, M > K
+```
+
+Options:
+
+- A) `K < S` — False
+- B) `Y > M` — False
+- C) `T < M` — False
+- D) `Y > K` — False
+
+
+
+---
+
+### Question 62
+
+```text
+S > L, B ≤ Q, N = B, L < M
+```
+
+Options:
+
+- A) `Q ≥ M` — True
+- B) `B > L` — True
+- C) `S > Q` — False
+- D) `L ≥ Q` — False
+
+
+
+---
+
+### Question 63
+
+```text
+L > E, P ≤ L, E ≤ P, S ≥ H
+```
+
+Options:
+
+- A) `M < P` — False
+- B) `N > L` — False
+- C) `P < E` — False
+- D) `L < C` — False
+
+
+
+---
+
+### Question 64
+
+```text
+T = M, B < T, M > F
+```
+
+Options:
+
+- A) `B < M` — True
+- B) `B < F` — False
+
+
+
+---
+
+### Question 65
+
+```text
+M = R, T ≥ K, R > T
+```
+
+Options:
+
+- A) `K ≤ M` — False
+- B) `K < M` — True
+
+
+
+---
+
+### Question 66
+
+```text
+H = N, D ≤ H, W < D
+```
+
+Options:
+
+- A) `N ≥ D` — True
+- B) `W < N` — True
+
+
+
+---
+
+### Question 67
+
+```text
+W ≤ D, R < K, D ≥ R
+```
+
+Options:
+
+- A) `R = W` — False
+- B) `R > W` — False
+
+
+
+---
+
+### Question 68
+
+```text
+J > V, F ≥ J, Y ≤ N
+```
+
+Options:
+
+- A) `N ≥ F` — False
+- B) `N > J` — False
+
+
+
+
+---
+
+## 📝 Session 7 — Statement and Conclusion Practice
+
+The notebook also introduces coded-symbol questions where the given coded relationships must be decoded before checking the conclusions.
+
+### Question 69
+
+```text
+A ≥ B, F ≥ E, F ≥ D, B ≥ E
+```
+
+Options:
+
+- A) `A ≥ E` — True
+- B) `A ≥ D` — False
+
+
+
+---
+
+### Question 70
+
+```text
+D ≤ E, A = B, C ≥ D, B > C
+```
+
+Options:
+
+- A) `A > C` — True
+- B) `B ≥ D` — False
+
+
+
+---
+
+### Question 71
+
+```text
+C ≥ D, A = B, C > B, E < D
+```
+
+Options:
+
+- A) `C = D` — False
+- B) `C > D` — False
+```
+---
+### Question 72
+
+```text
+A > B, E > D, C ≤ D, B < C
+```
+
+Options:
+
+- A) `E > A` — False
+- B) `B ≥ E` — False
+
+---
+
+### Question 73
+
+```text
+C > D, B ≤ C, A ≥ B, B ≥ E
+```
+
+Options:
+
+- A) `A > D` — False
+- B) `E < C` — False
+
+
+
+---
+
+### Question 74
+
+```text
+N = P, P ≥ F, F ≥ L, L < R
+```
+
+Options:
+
+- A) `F = K` — False
+- B) `F > K` — False
+
+
+
+---
+
+### Question 75
+
+```text
+S > M ≤ A, T ≤ M, Q ≤ B = T
+```
+
+Options:
+
+- A) `A > Q` — False
+- B) `A = Q` — False
+
+
+
+---
+
+### Question 76
+
+The notebook contains a connected inequality-chain question involving **M, U, N, L, Y, and A**.
+
+Options recorded in the notebook:
+
+- A) `Y < N` — False
+- B) `M > N` — False
+- C) `N = Y` — False
+- D) `N > A` — True
+
+
+
+---
+
+### Question 77
+
+```text
+J ≤ K = M, N ≥ P > K, Q > N = R
+```
+
+Options:
+
+- A) `R > J` — True
+- B) `R ≤ J` — False
+
+
+
+---
+
+### Question 78
+
+```text
+J ≥ K = M, N ≥ P > K, Q > N = R
+```
+
+Options:
+
+- A) `R > J` — False
+- B) `R ≤ J` — False
+
+---
+
+## 🏠 Homework — Coded Inequalities
+
+The notebook contains an additional homework set based on coded inequality symbols.
+
+### Coded Symbol Revision
+
+```text
+Coded symbols
+      ↓
+Identify the meaning
+      ↓
+Convert to standard inequality
+      ↓
+Build the chain
+      ↓
+Check the conclusion
+```
+---
+### Homework Question 1
+
+```text
+M = K, D ≤ K, R < K
+```
+
+Options:
+
+- A) `D = M` — False
+- B) `M > D` — False
+
+---
+
+### Homework Question 2
+
+```text
+F ≤ M, N > R, E ≥ F
+```
+
+Options:
+
+- A) `M ≥ E` — False
+- B) `R ≥ E` — False
+
+---
+
+### Homework Question 3
+
+```text
+H = K, T < H, W ≤ T
+```
+
+Options:
+
+- A) `K > W` — True
+- B) `T < K` — True
+
+---
+
+### Homework Question 4
+
+```text
+N > A, A < L, F ≤ N
+```
+
+Options:
+
+- A) `L > F` — False
+- B) `F > A` — True
+
+---
+
+### Homework Question 5
+
+```text
+B ≤ D, D = M, F > M
+```
+
+Options:
+
+- A) `B < M` — False
+- B) `F > B` — True
+
+---
+
+### Homework Question 6
+
+```text
+A < B < C < D = E ≤ F > G
+```
+
+Options:
+
+- A) `G ≤ C` — False
+- B) `F > B` — True
+
+---
+
+### Homework Question 7
+
+```text
+A = B ≥ C ≥ D ≥ E
+G ≤ F = E
+C > H
+```
+
+Options:
+
+- A) `A > H` — True
+- B) `B ≥ F` — True
+
+
+
+---
+
+### Homework Question 8
+
+```text
+P > Q > R > S < T > U > V
+```
+
+Options:
+
+- A) `Q < V` — False
+- B) `P > S` — True
+
+
+
+---
+
+### Homework Question 9
+
+```text
+J > K > L, N < L > M
+```
+
+Options:
+
+- A) `K > M` — True
+- B) `J > N` — True
+
+
+
+---
+
+### Homework Question 10
+
+```text
+A = B ≥ C ≥ D ≥ E
+G ≤ F = E
+C > H
+```
+
+Options:
+
+- A) `G = A` — False
+- B) `G < A` — False
+
+
+
+---
+## 📊 Session 7 Practice Coverage
+
+- Coded inequality questions
+- Decoding special symbols
+- Conversion of coded relationships
+- Direct comparison
+- Chain-based comparison
+- Statement and conclusion questions
+- Definitely-true / definitely-false analysis
+- Mixed inequality chains
+- Multiple connected variables
+- Exam-level coded inequality practice
+- Homework practice
+---
+
+## 🧠 Quick Revision — Coded Inequalities
+
+```text
+Coded Inequality
+       ↓
+Decode the symbol
+       ↓
+Convert to >, <, =, ≥, ≤
+       ↓
+Arrange the relationship
+       ↓
+Build the chain
+       ↓
+Check the required conclusion
+       ↓
+Select the correct answer
+```
+
+### Important Rule
+
+Never solve a coded inequality question before decoding the symbols.
+
+```text
+First → Understand the code
+Second → Convert the code
+Third → Build the chain
+Fourth → Check the conclusion
+Fifth → Select the answer
+```
+
+---
 ## 🧠 Quick Revision
 
 ```text
@@ -1298,3 +1880,24 @@ Select the correct option
 - Advanced inequality chains
 - Mixed-symbol comparison practice
 - Session 6 notebook questions **45–59**
+- **Coded inequalities**
+- **Special-symbol decoding**
+- **Conversion of coded inequalities**
+- **Session 7 notebook questions 59–78**
+- **Coded inequality homework questions 1–10**
+---
+### New Focus in Session 7
+
+```text
+Coded Symbols
+      ↓
+Decode Relationships
+      ↓
+Convert to Standard Inequalities
+      ↓
+Build the Chain
+      ↓
+Check Conclusions
+      ↓
+Solve Exam-Level Questions
+```

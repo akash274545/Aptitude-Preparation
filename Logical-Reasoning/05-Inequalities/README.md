@@ -1971,6 +1971,724 @@ Therefore → Either-Or
 
 
 ---
+
+# 📚 Part 6 — Sessions 9 & 10
+
+This section contains the new concepts, coded-inequality questions, non-relational / either-or practice, and **Definitely False** questions covered in the latest handwritten notes.
+
+---
+
+## 🧠 Session 9 — Inequalities 8
+
+### 1. Non-Relation / Either-Or Concept
+
+The notes introduce questions where two conclusions may not have a definite direct relationship, and the answer can be identified using the **either-or** condition.
+
+### Important Rule
+
+For an **Either-Or** relationship:
+
+- Both conclusions should concern the **same variables**.
+- The two conclusions should be **complementary** relationships.
+- If one conclusion is true and the other is false, it is not automatically an Either-Or case.
+- If the required conditions are not satisfied, the result is **Neither Nor / No definite relation**.
+
+### Example from the Notes
+
+```text
+A ≥ B ≥ C < D
+
+Conclusion I   : A > C
+Conclusion II  : A < C
+```
+
+The conclusions are checked for the required Either-Or condition rather than assuming a relationship that is not established by the chain.
+
+---
+
+## 🔗 Non-Relational Inequality Rules
+
+The notes give a separate method for identifying **non-relational** conclusions.
+
+### Important Points
+
+1. Check whether the variables are connected.
+2. Check whether the required rule is followed through the complete chain.
+3. If there is no valid connection, the relationship cannot be established.
+4. For an Either-Or question, check the two conclusions together.
+5. If the Either-Or conditions are not satisfied, select **Neither Nor** when applicable.
+
+---
+
+## 📝 Session 9 — Practice Questions 1–5
+
+### Question 1
+
+```text
+R ≥ S > F, F ≤ O = U, U ≥ V ≥ W
+```
+
+Conclusions:
+
+- A. `R > F` — False
+- B. `R ≥ F` — False
+- C. `U ≥ W` — True
+- D. `S > O` — False
+- E. `S ≤ V` — False
+
+### Question 2
+
+```text
+A ≥ B ≥ C = D ≥ E < F > G
+```
+
+Conclusions:
+
+- A. `A > C` — False — Either-Or check
+- B. `B > C` — False — Either-Or check
+- C. `C > E` — False — Either-Or check
+- D. `D > G` — False — Neither Nor
+
+### Example 1
+
+```text
+P > Q < R > J > L < M
+```
+
+Conclusions:
+
+- `L > R`
+- `R ≥ L`
+
+**Result:** Neither Nor
+
+### Example 2
+
+```text
+M ≥ D < N < P < R
+```
+
+Conclusions:
+
+- `N < R` — False
+- `R ≥ M` — False
+
+**Result:** Neither Nor
+
+### Example 3
+
+```text
+A = B ≥ C ≥ D < E
+```
+
+Conclusions:
+
+- `A ≥ E` — False
+- `E = A` — False
+
+**Result:** Neither Nor
+
+### Example 4
+
+```text
+A > M, A ≤ B, R < S ≤ B
+```
+
+Conclusions:
+
+- `A ≥ R` — False
+- `R > A` — False
+
+**Result:** Non-Relational / Either-Or check
+
+### Example 5
+
+```text
+A ≥ B ≥ C ≥ D < E
+```
+
+Conclusions:
+
+- `D = A` — False
+- `B > D` — False
+
+**Result:** Either-Or / Relational check
+
+---
+
+## 📝 Session 9 — Practice Questions 11–20
+
+### Question 11
+
+```text
+H < J, J = N, N ≥ R
+```
+
+- A. `R < J` — True
+- B. `H > J` — False
+- C. `N > H` — True
+
+### Question 12
+
+```text
+M > T, J ≥ T, T = N
+```
+
+- A. `N ≤ J` — True
+- B. `T < M` — True
+- C. `M > N` — True
+
+### Question 13
+
+```text
+D = K, K ≤ F, F > P
+```
+
+- A. `P > D` — False
+- B. `K ≤ P` — False
+- C. `F ≥ P` — True
+
+### Question 14
+
+```text
+K ≤ N, N ≥ T, T < J
+```
+
+- A. `J > N` — False
+- B. `K > T` — False
+- C. `T > K` — False
+
+### Question 15
+
+```text
+M > D, D = V, V ≥ W
+```
+
+- A. `W > M` — False
+- B. `M < V` — False
+- C. `D ≥ W` — True
+
+### Question 16
+
+```text
+J > H, H = T, T < R, R ≤ F
+```
+
+- A. `J > R` — False
+- B. `R > F` — False
+- C. `J > T` — True
+
+### Question 17
+
+```text
+E < P, P ≤ H, H ≥ I, I > K
+```
+
+- A. `P = I` — False
+- B. `I ≤ E` — False
+- C. `H < K` — False
+
+### Question 18
+
+```text
+L ≥ R, K > R, R < H, H ≤ N
+```
+
+- A. `L > R` — True
+- B. `N > R` — True
+- C. `L ≥ N` — False
+
+### Question 19
+
+```text
+T < V, V ≤ K, K = L, L < H
+```
+
+- A. `V ≤ H` — True
+- B. `T < L` — True
+- C. `T < H` — True
+
+### Question 20
+
+```text
+V ≥ W, W > D, D < M, M ≥ F
+```
+
+- A. `V > D` — True
+- B. `F > D` — True
+- C. `V = F` — False
+
+---
+
+## 📝 Session 9 — Practice Questions 21–30
+
+### Question 21
+
+```text
+M < T, T ≤ R, R ≥ J
+```
+
+- A. `J > M` — False
+- B. `R > M` — True
+- C. `J = T` — False
+
+### Question 22
+
+```text
+D ≥ B, B > H, H = F
+```
+
+- A. `F < B` — True
+- B. `F < D` — True
+- C. `H < D` — True
+
+### Question 23
+
+```text
+H = M, M < T, T ≤ K
+```
+
+- A. `K > M` — True
+- B. `T > H` — True
+- C. `H < K` — True
+
+### Question 24
+
+```text
+R = T, T < M, M ≤ K
+```
+
+- A. `K < R` — False
+- B. `M > R` — True
+- C. `K > T` — True
+
+### Question 25
+
+```text
+F > W, W ≤ M, M ≥ R
+```
+
+- A. `R ≤ W` — False
+- B. `F > R` — False
+- C. `W = R` — False
+
+### Question 26
+
+```text
+H ≥ T, T ≤ M, M > F
+```
+
+- A. `F < T` — False
+- B. `H > M` — False
+
+### Question 27
+
+```text
+B = N, N ≥ T, T < K
+```
+
+- A. `T = B` — False
+- B. `T < B` — False
+
+**Note:** Either-Or condition is checked.
+
+### Question 28
+
+```text
+R < J, J > F, F ≤ H
+```
+
+- A. `H > J` — False
+- B. `R < F` — False
+
+### Question 29
+
+```text
+J > P, D = N, N < K
+```
+
+- A. `J > F` — False
+- B. `F ≥ P` — True
+
+### Question 30
+
+```text
+B > T, T < H, H = M
+```
+
+- A. `M > T` — True
+- B. `B > H` — False
+
+---
+
+## 🔢 Coded Inequality — Directions (Questions 11–15)
+
+The notes introduce coded symbols whose meanings have to be decoded before solving the questions.
+
+| Symbol | Meaning in the notes |
+|---|---|
+| `A $ B` | A is not smaller than B → `A ≥ B` |
+| `A # B` | A is not greater than B → `A ≤ B` |
+| `A @ B` | A is neither smaller than nor equal to B → `A > B` |
+| `A ^ B` | A is neither smaller nor greater than B → `A = B` |
+| `A + B` | A is neither greater nor equal to B → `A < B` |
+
+### Important Method
+
+```text
+Decode the symbol
+        ↓
+Replace it with the actual inequality sign
+        ↓
+Build the relationship chain
+        ↓
+Check the conclusion
+```
+
+---
+
+## 🔢 Coded Inequality — Directions (Questions 16–20)
+
+Another coded-symbol set is introduced in the notes.
+
+| Symbol | Meaning |
+|---|---|
+| `P ∧ Q` | P is not smaller than Q → `P ≥ Q` |
+| `P * Q` | P is neither smaller than nor equal to Q → `P > Q` |
+| `P @ Q` | P is not greater than Q → `P ≤ Q` |
+| `P $ Q` | P is neither greater than nor equal to Q → `P < Q` |
+| `P # Q` | P is neither smaller than nor greater than Q → `P = Q` |
+
+---
+
+## 🔢 Coded Inequality — Directions (Questions 21–25)
+
+| Symbol | Meaning |
+|---|---|
+| `P ∧ Q` | P is either greater than or equal to Q → `P ≥ Q` |
+| `P ) Q` | P is either smaller than or equal to Q → `P ≤ Q` |
+| `P @ Q` | P is neither smaller than nor greater than Q → `P = Q` |
+| `P $ Q` | P is smaller than Q → `P < Q` |
+| `P # Q` | P is greater than Q → `P > Q` |
+
+---
+
+## 🔢 Coded Inequality — Directions (Questions 26–30)
+
+| Symbol | Meaning |
+|---|---|
+| `P ∧ Q` | P is either greater than or equal to Q → `P ≥ Q` |
+| `P ) Q` | P is either smaller than or equal to Q → `P ≤ Q` |
+| `P @ Q` | P is neither smaller than nor greater than Q → `P = Q` |
+| `P $ Q` | P is smaller than Q → `P < Q` |
+| `P δ Q` | P is greater than Q → `P > Q` |
+
+---
+
+## 📝 Session 9 — Advanced Questions 31–40
+
+### Question 31
+
+```text
+D > K, K < N, N ≤ P
+```
+
+- I. `D > N` — False
+- II. `P > N` — False
+- III. `D ≤ N` — False
+
+**Note:** Only Either I or II is considered in the notebook's analysis.
+
+### Question 32
+
+```text
+H ≥ R, R ≤ M, M = N
+```
+
+- I. `H > M` — False
+- II. `N > R` — False
+- III. `N = R` — Either/conditional result as marked in the notes
+
+**Note:** Only either II or III is considered in the notebook's analysis.
+
+### Question 33
+
+```text
+M ≤ R, R < T, T = N
+```
+
+- I. `N > R` — True
+- II. `T > M` — True
+- III. `N ≥ R` — False
+
+**Answer pattern:** Only I and II are true.
+
+### Question 34
+
+```text
+B ≥ R, R > K, K < M
+```
+
+- I. `M > R` — False
+- II. `K < B` — True
+- III. `K ≤ B` — False
+
+**Answer:** Only II is true.
+
+### Question 35
+
+```text
+F < D, D > R, K ≤ B
+```
+
+- I. `B > D` — False
+- II. `F < K` — False
+- III. `B > F` — False
+
+### Question 36
+
+```text
+J > R, K ≤ T, T < N, N ≥ R
+```
+
+- I. `J > T` — False
+- II. `R ≤ T` — False
+- III. `N > T` — True
+- IV. `R ≤ K` — False
+
+**Answer:** Only III is true.
+
+### Question 37
+
+```text
+F = D, H ≥ R, R < M, M > D
+```
+
+- I. `D < R` — False
+- II. `M > R` — False
+- III. `R < D` — False
+- IV. `R ≤ F` — True
+
+**Answer:** Only IV is true.
+
+### Question 38
+
+```text
+H < B, B ≤ E, V ≥ E, W > V
+```
+
+- I. `W ≥ E` — True
+- II. `H < E` — True
+- III. `H < V` — True
+- IV. `W > B` — True
+
+**Answer:** All are true.
+
+### Question 39
+
+```text
+R ≥ K, K ≤ N, N > P, J = H
+```
+
+- I. `R > N` — False
+- II. `J < K` — False
+- III. `H < N` — True
+- IV. `R > H` — False
+
+**Answer:** Only III is true.
+
+### Question 40
+
+```text
+K ≤ D, D > N, N = H, H ≥ W
+```
+
+- I. `N > K` — False
+- II. `N < K` — False
+- III. `N < D` — True
+- IV. `W ≤ N` — True
+
+**Answer:** Only III and IV are true.
+
+---
+
+# 📚 Session 10 — Inequalities 9
+
+## ❌ Definitely False
+
+The new session introduces the concept of **Definitely False**.
+
+### Main Idea
+
+A conclusion is **Definitely False** when the statement establishes a relationship that makes the opposite conclusion impossible.
+
+### Example
+
+```text
+P ≥ Q ≥ R
+```
+
+From this:
+
+- `P > R` — False / not definitely established
+- `P < R` — **Definitely False**
+- `P ≥ R` — True
+- `P ≤ R` — False / not definitely established
+- `P = R` — False / not definitely established
+
+The notebook specifically marks `P < R` as the **Definitely False** conclusion because the chain guarantees `P ≥ R`.
+
+---
+
+## ⚠️ Important Rule — Definitely False
+
+```text
+If the opposite relationship is definitely established by the statement,
+the given conclusion is Definitely False.
+```
+
+### Example
+
+```text
+P ≥ Q ≥ R
+        ↓
+P ≥ R
+```
+
+Therefore:
+
+```text
+P < R  → Definitely False
+```
+
+---
+
+## 🚫 No Relationship = No Definitely False
+
+The notes give another important case:
+
+```text
+A > B < C
+```
+
+Here, the relationship between **A and C** cannot be determined.
+
+Therefore, conclusions such as:
+
+- `A > C`
+- `A < C`
+- `A ≥ C`
+- `A ≤ C`
+- `A = C`
+
+cannot be marked as Definitely False merely because no relationship is available.
+
+### Important Point
+
+```text
+No relation between variables
+        ↓
+No Definitely False conclusion
+```
+
+---
+
+## 📝 Definitely False — Questions 79–81
+
+### Question 79
+
+**Statement:**
+
+```text
+A > B ≥ C = D
+```
+
+Conclusions:
+
+1. `A < D` — Definitely False
+2. `A ≤ D` — Definitely False
+3. `A ≥ D` — True
+4. `A ≥ D` — False / as marked in the notebook's option set
+5. `A = D` — False
+
+The key concept is to identify the conclusion that is impossible because of the definite relationship established by the statement.
+
+### Question 80
+
+**Statement:**
+
+```text
+A > B ≥ C = D
+```
+
+Conclusions:
+
+1. `B < D` — Definitely False
+2. `B ≤ D` — Definitely False
+3. `B > D` — True
+4. `B ≥ D` — True
+5. `B = D` — False
+
+### Question 81
+
+**Statement:**
+
+```text
+A > B ≥ C = D
+```
+
+Conclusions:
+
+1. `C < D` — Definitely False
+2. `C ≤ D` — True
+3. `C > D` — Definitely False
+4. `C ≥ D` — True
+5. `C = D` — True
+
+---
+
+## 🧠 Part 6 — Quick Revision
+
+```text
+Session 9
+    ↓
+Non-Relation / Either-Or
+    ↓
+Coded Inequalities
+    ↓
+Decode the symbols
+    ↓
+Build the chain
+    ↓
+Check conclusions
+
+Session 10
+    ↓
+Definitely False
+    ↓
+Find the definite relationship
+    ↓
+Check the opposite conclusion
+    ↓
+If impossible → Definitely False
+    ↓
+If no relation → No Definitely False
+```
+
+---
+
+## 🎯 Part 6 Learning Goals
+
+- Understand non-relational inequality questions.
+- Identify valid Either-Or conditions.
+- Decode different coded inequality symbols.
+- Convert coded statements into standard inequality symbols.
+- Solve advanced statement-and-conclusion questions.
+- Understand the concept of **Definitely False**.
+- Distinguish between **False / Cannot Be Concluded** and **Definitely False**.
+- Identify when no relationship means that a conclusion cannot be called Definitely False.
+
+---
 ## 🧠 Quick Revision
 
 ```text
@@ -2044,19 +2762,14 @@ Select the correct option
 - Relation and Non-Relation rules for Either-Or
 - Exceptional cases
 - Either-Or practice questions from Session 8
+- **Definitely False** concept
+- Difference between False and Definitely False
+- No-relationship case in Definitely False
+- Definitely False practice questions 79–81
 ---
-### New Focus in Session 7
+**Sessions Covered:**
 
-```text
-Coded Symbols
-      ↓
-Decode Relationships
-      ↓
-Convert to Standard Inequalities
-      ↓
-Build the Chain
-      ↓
-Check Conclusions
-      ↓
-Solve Exam-Level Questions
-```
+- Session 1–5 → Previous Inequality concepts and practice
+- Session 6–8 → Previous advanced practice / homework
+- Session 9 → Inequalities 8, Non-Relation, Either-Or, Coded Inequalities, Questions 1–40
+- Session 10 → Inequalities 9, Definitely False, Questions 79–81

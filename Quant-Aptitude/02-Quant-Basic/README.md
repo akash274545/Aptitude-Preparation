@@ -12,7 +12,7 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 - `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
 - `Baisc-Quant-3.pdf` — handwritten notes covering new Basic Quant concepts and practice questions from Part 3.
 - `Basic-Quant-4.pdf` — handwritten notes covering **Fraction-2**, mixed fractions, fraction conversion, addition and subtraction of fractions, whole-number operations with fractions, and fraction-based practice/homework.
-**File:** `Basic-Quant-5.pdf`
+- **File:** `Basic-Quant-5.pdf`
 ---
 
 ## 📚 Session-Wise Topics

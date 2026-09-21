@@ -11,7 +11,8 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 - `Baisc-Quant-1.pdf` — handwritten notes and practice questions
 - `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
 - `Baisc-Quant-3.pdf` — handwritten notes covering new Basic Quant concepts and practice questions from Part 3.
-- `Basic-Quant-4.pdf` — handwritten notes covering **Fraction-2**, mixed fractions, fraction conversion, addition and subtraction of fractions, whole-number operations with fractions, and fraction-based practice/homework. 
+- `Basic-Quant-4.pdf` — handwritten notes covering **Fraction-2**, mixed fractions, fraction conversion, addition and subtraction of fractions, whole-number operations with fractions, and fraction-based practice/homework.
+**File:** `Basic-Quant-5.pdf`
 ---
 
 ## 📚 Session-Wise Topics
@@ -1118,7 +1119,105 @@ Final Answer
 - Solve multi-term expressions step by step.
 
 ---
+# 📘 Basic Quantitative Aptitude – Part 5
 
+This section contains handwritten notes and practice questions from **Session 10** of my Quantitative Aptitude preparation.
+
+## 📚 Topics Covered
+
+### 1. Powers
+- Basic powers and their values
+- Powers of numbers from 2 to 5
+- Examples of squares, cubes, fourth powers and fifth powers
+- Quick revision of commonly used powers
+
+### 2. Simultaneous Equations
+Introduction to solving equations with unknown variables.
+
+The notes cover:
+- Equation with **1 unknown**
+- **2 equations with 2 unknowns**
+- **2 equations with 3 unknowns**
+- **3 equations with 3 unknowns**
+- Understanding when the number of equations and unknowns is sufficient
+- Solving equations by elimination/substitution
+
+### 3. Positive and Negative Signs
+Practice with signs while multiplying algebraic terms:
+- Positive × Positive = Positive
+- Negative × Negative = Positive
+- Positive × Negative = Negative
+- Negative × Positive = Negative
+
+### 4. Solving Linear Equations
+Practice includes equations such as:
+- `+5x = 20`
+- `-5x = 20`
+- `-2x = -40`
+- `x/2 = -20`
+- `x/5 = 10`
+
+The notes focus on handling positive/negative signs correctly while finding the value of `x`.
+
+### 5. Simultaneous Equations – Practice
+The session contains a large practice set of simultaneous equations using **x and y**.
+
+Methods practiced include:
+- Elimination method
+- Multiplying equations by suitable numbers
+- Adding/subtracting equations
+- Substitution to find the remaining variable
+- Writing the final answer as an ordered pair `(x, y)`
+
+## 📝 Practice Set
+
+The handwritten notes contain **24 simultaneous-equation problems**, covering different coefficient patterns and requiring step-by-step solving.
+
+Examples of the types practiced:
+
+```text
+2x + 3y = 16
+6x + 6y = 42
+```
+
+```text
+4x + 5y = 41
+-x - y = -9
+```
+
+```text
+12x - 5y = 14
+-8x + 5y = -66
+```
+
+The final pages continue the practice set up to **Question 24**.
+
+## 🏠 Homework
+
+Homework questions are also included in the notes. They continue the practice of solving simultaneous equations and finding the corresponding values of `x` and `y`.
+
+## 🎯 Learning Objectives
+
+After completing this session, I practiced how to:
+
+- Understand the basic concept of simultaneous equations
+- Identify the number of equations and unknowns
+- Solve two-variable linear equations
+- Use elimination effectively
+- Multiply equations to create matching coefficients
+- Handle positive and negative signs correctly
+- Find both `x` and `y`
+- Represent solutions as ordered pairs
+- Build speed through repeated practice
+
+## 📖 Session Information
+
+- **Session:** 10
+- **Topic:** Simultaneous Equations
+- **Practice:** 24 questions + homework
+- **Notes:** Handwritten study notes
+
+---
 
 
 ## 📌 Revision Points
@@ -1264,3 +1363,27 @@ Solve questions quickly and accurately
 - Fraction homework — 16 questions
 
 **Part 4 Topic: Fractions-2 ✅**
+
+### Newly Added in Part 5
+
+- Powers
+- Basic powers and their values
+- Squares, cubes, fourth powers and fifth powers
+- Simultaneous equations
+- Equation with 1 unknown
+- 2 equations with 2 unknowns
+- 2 equations with 3 unknowns
+- 3 equations with 3 unknowns
+- Positive and negative sign rules
+- Multiplication of positive and negative terms
+- Solving linear equations
+- Elimination method
+- Substitution method
+- Multiplying equations by suitable numbers
+- Finding values of **x and y**
+- Writing solutions as ordered pairs **(x, y)**
+- Simultaneous equations practice
+- **24 simultaneous-equation questions**
+- Simultaneous equations homework
+
+**Part 5 Topic: Simultaneous Equations ✅**

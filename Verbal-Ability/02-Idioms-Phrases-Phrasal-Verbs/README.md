@@ -244,7 +244,7 @@ Improve verbal ability
 
 ## 📌 Status
 
-**Idioms, Phrases & Phrasal Verbs — Part 1 + Part 2 + Part 3 Completed ✅**
+**Idioms, Phrases & Phrasal Verbs — Part 1 + Part 2 + Part 3 + Part 4 Completed ✅**
 
 **Part 1 Idioms Covered: 5**
 
@@ -254,4 +254,8 @@ Improve verbal ability
 
 **Part 3 Idioms Covered: 5**
 
-**Total Expressions Covered: 20**
+**Part 4 Idioms & Phrases Covered: 10**
+
+**Part 4 Phrasal Verbs Covered: 5**
+
+**Total Expressions Covered: 35**

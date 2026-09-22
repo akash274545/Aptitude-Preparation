@@ -1277,6 +1277,73 @@ Practice with different bases including:
 - `25`, `32`, `64`
 - `81`, `125`, `256`, `625`
 
+### Newly Added in Part 6
+
+- Laws of Indices
+- Multiplication of powers with the same base
+  - Example: `2³ × 2⁷ = 2³⁺⁷`
+- Division of powers with the same base
+  - Example: `2⁵ / 2² = 2⁵⁻²`
+- Multiplication of powers with the same exponent
+  - Example: `3² × 2² = (3 × 2)²`
+- Division of powers with the same exponent
+  - Example: `3² / 2² = (3 / 2)²`
+- Zero exponent
+  - Example: `1234⁰ = 1`
+- Fractional indices
+  - Example: `∛8 = 8^(1/3)`
+- Negative indices
+  - Example: `10⁻⁵ = 1 / 10⁵`
+- Power of a power
+  - Example: `(2³)⁴ = 2³ˣ⁴ = 2¹²`
+- Understanding the difference between `a^(b^c)` and `(a^b)^c`
+  - Example: `2^(3²) ≠ (2³)²`
+- Comparing powers with the same base
+  - Example: `a^m = a^n → m = n`
+
+### Roots & Fractional Indices
+
+- Square root
+  - Example: `√16` → Square root of 16
+- Cube root
+  - Example: `∛64` → Cube root of 64
+- Fourth root
+  - Example: `⁴√256` → Fourth root of 256
+- Fifth root
+  - Example: `⁵√32` → Fifth root of 32
+- General nth root
+  - Example: `ⁿ√a` → nth root of `a`
+
+### Indices Practice Examples
+
+- `(2³)²⁻² → 2³ˣ⁴ → 2¹²`
+- `(2⁴)⁸ → 2⁴ˣ⁸ → 2³²`
+- `(2³)⁴ → 2³ˣ⁴ → 2¹²`
+- `(2²)⁵ → 2²ˣ⁵ → 2¹⁰`
+- `(2⁴)⁴ → 2⁴ˣ⁴ → 2¹⁶`
+- `(2³)⁵ → 2³ˣ⁵ → 2¹⁵`
+
+### Basic Index Equations
+
+- `x² = 25`
+- `x = √25 → x = 5`
+- `√x = 16 → x = 256`
+- `∛y = 8 → y = 512`
+- `x² = 4 → x = -2, +2`
+- `x³ = 8 → x = 2`
+- `x⁴ = 16 → x = -2, +2`
+- `x⁵ = 32 → x = 2`
+- `x⁶ = 64 → x = -2, +2`
+
+### Finding Values Using Powers and Roots
+
+- `A² = 4 → A = ±2`
+- `B³ = 64 → B = 4`
+- `C = √64 → C = 8`
+- `D = ∛64 → D = 4`
+- `√E = 4 → E = 16`
+- `∛F = 8 → F = 512`
+
 ### 6. Advanced Indices Practice
 
 The later questions combine multiple laws of indices:

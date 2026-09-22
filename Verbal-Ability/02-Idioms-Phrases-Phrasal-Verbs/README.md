@@ -60,6 +60,37 @@ The following idioms and meanings are taken from my handwritten notes.
 
 
 ---
+## 📚 Part 4
+
+The following idioms, phrases, and phrasal verbs are taken from my handwritten notes.
+
+### Idioms & Phrases
+
+| No. | Idiom / Phrase | Meaning |
+|---:|---|---|
+| 1 | **Bad Egg** | Bad, dishonest or unreliable; a good-for-nothing |
+| 2 | **Tooth and Nail** | To fight with the intensity and ferocity of a wild animal |
+| 3 | **Spill the Beans** | Disclose a secret or reveal something prematurely |
+| 4 | **Hush Money** | Bribe |
+| 5 | **Beat the Air** | To make useless efforts |
+| 6 | **Let the Cat Out of the Bag** | Reveal a secret carelessly or by mistake |
+| 7 | **To Cut Corners** | Do something perfunctorily so as to save time or money |
+| 8 | **Break a Leg** | Used for wishing someone good luck, especially before a performance |
+| 9 | **Cost an Arm and a Leg** | Extremely expensive |
+| 10 | **Fool's Paradise** | A state of happiness based on a person's not knowing about or denying the existence of potential trouble; false sense of happiness |
+
+---
+
+### Phrasal Verbs
+
+| No. | Phrasal Verb | Meaning |
+|---:|---|---|
+| 1 | **Watch Out** | To be careful |
+| 2 | **Ask Around** | Ask a number of people for information or help |
+| 3 | **Phase In** | Introduce gradually |
+| 4 | **Check Out** | To pay one's bill and leave a hotel; to investigate |
+| 5 | **Pig Out** | Eat a lot |
+---
 
 ## 📝 Quick Revision
 
@@ -136,6 +167,59 @@ Dark horse
 
 Burn one's boat
         → No point of return
+```
+
+### Part 4 - Idioms & Phrases
+
+```text
+Bad Egg
+        → Bad / Dishonest / Unreliable / Good-for-nothing
+
+Tooth and Nail
+        → To fight with great intensity and ferocity
+
+Spill the Beans
+        → Disclose a secret / Reveal something prematurely
+
+Hush Money
+        → Bribe
+
+Beat the Air
+        → To make useless efforts
+
+Let the Cat Out of the Bag
+        → Reveal a secret carelessly or by mistake
+
+To Cut Corners
+        → Do something perfunctorily to save time or money
+
+Break a Leg
+        → Used for wishing someone good luck, especially before a performance
+
+Cost an Arm and a Leg
+        → Extremely expensive
+
+Fool's Paradise
+        → False sense of happiness based on not knowing about or denying potential trouble
+```
+
+### Part 4 - Phrasal Verbs
+
+```text
+Watch Out
+        → To be careful
+
+Ask Around
+        → Ask a number of people for information or help
+
+Phase In
+        → Introduce gradually
+
+Check Out
+        → Pay one's bill and leave a hotel / Investigate
+
+Pig Out
+        → Eat a lot
 ```
 
 ---

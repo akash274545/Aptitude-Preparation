@@ -117,6 +117,52 @@ Burnish       → To polish
 ```
 
 ---
+## 📚 Vocabulary — Part 4
+
+The following words and meanings are taken from my handwritten vocabulary notes.
+
+### Words and Meanings
+
+| No. | Word | Meaning |
+|---:|---|---|
+| 31 | **Abase** | To lower in rank, office, prestige or esteem |
+| 32 | **Dogma** | Something held as an established opinion |
+| 33 | **Adept** | Expert |
+| 34 | **Glutton** | One given habitually to greedy and voracious eating and drinking; one that has a great capacity for accepting or enduring something; a glutton for punishment |
+| 35 | **Sycophant** | Flatterer |
+| 36 | **Beguile** | Influence by slyness |
+| 37 | **Relegate** | Assign to a lower position |
+| 38 | **Mendacious** | Given to lying |
+| 39 | **Clamour** | Utter or proclaim insistently and noisily |
+| 40 | **Conflagration** | A very intense and uncontrolled fire; war; conflict |
+| 41 | **Covert** | Not openly shown; veiled |
+| 42 | **Eloquent** | Marked by forceful and fluent expression |
+| 43 | **Placate** | To soothe or mollify, especially by concessions; appease |
+| 44 | **Enigma** | Something hard to understand or explain; an inscrutable or mysterious person |
+| 45 | **Jocund** | Said or done by a joke; characterized by jesting, playful |
+
+---
+
+## 📝 Quick Revision — Part 4
+
+```text
+Abase          → To lower in rank / office / prestige / esteem
+Dogma          → Something held as an established opinion
+Adept          → Expert
+Glutton        → One given to greedy and voracious eating and drinking
+Sycophant      → Flatterer
+Beguile        → Influence by slyness
+Relegate       → Assign to a lower position
+Mendacious     → Given to lying
+Clamour        → Utter or proclaim insistently and noisily
+Conflagration  → A very intense and uncontrolled fire / war / conflict
+Covert         → Not openly shown / Veiled
+Eloquent       → Forceful and fluent expression
+Placate        → To soothe or mollify, especially by concessions / Appease
+Enigma         → Something hard to understand or explain / Mysterious person
+Jocund         → Said or done by a joke / Jesting / Playful
+```
+
 ---
 
 ## 🎯 Goal
@@ -139,7 +185,7 @@ Improve vocabulary
 
 ## 📌 Status
 
-**Vocabulary — Part 1 + Part 2 + Part-3 Completed ✅**
+**Vocabulary — Part 1 + Part 2 + Part 3 + Part 4  Completed ✅**
 
-**Total Words Covered: 30**
+**Total Words Covered: 45**
 

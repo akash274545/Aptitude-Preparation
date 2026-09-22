@@ -1490,3 +1490,37 @@ Solve questions quickly and accurately
 - Simultaneous equations homework
 
 **Part 5 Topic: Simultaneous Equations ✅**
+
+
+
+### Newly Added in Part 6
+
+- Laws of Indices
+- Multiplication of powers with the same base
+- Division of powers with the same base
+- Multiplication of powers with the same exponent
+- Division of powers with the same exponent
+- Zero exponent
+- Fractional indices
+- Negative indices
+- Power of a power
+- Difference between `a^(b^c)` and `(a^b)^c`
+- Square root and fractional indices
+- Cube root and fractional indices
+- Fourth root and fractional indices
+- Fifth root and fractional indices
+- General `nth` root
+- Converting roots into fractional indices
+- Converting fractional indices into roots
+- Solving equations using indices
+- Even and odd powers
+- Finding unknown values **x, y and k**
+- Simplifying expressions using laws of indices
+- Converting numbers into common bases
+- Equating powers with the same base
+- Negative and fractional power calculations
+- Advanced indices simplification
+- **30 indices practice questions**
+- Indices practice from basic to advanced level
+
+**Part 6 Topic: Laws of Indices & Indices Practice ✅**

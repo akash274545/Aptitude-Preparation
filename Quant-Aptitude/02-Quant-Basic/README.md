@@ -1232,10 +1232,6 @@ After completing this session, I practiced how to:
 - Revise the square table regularly.
 - Practise finding squares without a calculator.
 
----
-
-## 📌 Revision Points — New Concepts
-
 - Practise cube roots along with square roots.
 - Remember the unit-digit possibilities of cubes.
 - Use unit digits to identify possible square/cube roots.

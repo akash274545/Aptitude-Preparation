@@ -1219,6 +1219,113 @@ After completing this session, I practiced how to:
 
 ---
 
+# 📘 Basic Quantitative Aptitude – Part 6
+
+This section contains handwritten notes and practice questions from **Session 11** of my Quantitative Aptitude preparation.
+
+## 📄 PDF
+
+**File:** `Baisc-Quant-6.pdf`
+
+## 📚 Topics Covered
+
+### 1. Laws of Indices
+
+- Multiplication of powers with the same base
+- Division of powers with the same base
+- Multiplication of powers with the same exponent
+- Division of powers with the same exponent
+- Zero exponent
+- Fractional exponents
+- Negative exponents
+- Power of a power
+- Difference between `a^(b^c)` and `(a^b)^c`
+- Comparing powers with the same base
+
+### 2. Roots and Fractional Indices
+
+- Square root
+- Cube root
+- Fourth root
+- Fifth root
+- General nth root
+- Converting roots into fractional indices
+- Converting fractional indices into roots
+
+### 3. Solving Equations Using Indices
+
+- Squares and square roots
+- Cubes and cube roots
+- Higher powers
+- Fractional powers
+- Finding unknown values such as `x`, `y` and `k`
+- Comparing exponents when the bases are the same
+
+### 4. Even and Odd Powers
+
+- Even powers
+- Odd powers
+- Positive and negative values
+- Possible values after taking roots
+
+### 5. Simplification Using Laws of Indices
+
+Practice with different bases including:
+
+- `2`, `3`, `5`
+- `6`, `8`, `16`
+- `25`, `32`, `64`
+- `81`, `125`, `256`, `625`
+
+### 6. Advanced Indices Practice
+
+The later questions combine multiple laws of indices:
+
+- Negative indices
+- Fractional indices
+- Multiplication and division of powers
+- Converting numbers into common bases
+- Equating exponents
+- Finding unknown `k`
+- Simplifying complex exponential expressions
+
+## 📝 Practice Set
+
+The handwritten notes contain **30 questions** covering basic to advanced applications of indices.
+
+The questions include:
+
+- Basic index calculations
+- Root and power conversions
+- Finding unknown variables
+- Fractional and negative powers
+- Simplification of exponential expressions
+- Equating powers with the same base
+- Multi-step indices problems
+
+### Practice Coverage
+
+- **Questions 1–18:** Basic and intermediate indices problems
+- **Questions 19–30:** Advanced indices and simplification problems
+
+## 🎯 Learning Objectives
+
+After completing this session, I practiced how to:
+
+- Apply the laws of indices correctly
+- Convert roots into fractional indices
+- Convert fractional indices into roots
+- Work with zero and negative powers
+- Simplify powers of powers
+- Handle fractional exponents
+- Solve equations involving indices
+- Convert different numbers to a common base
+- Compare exponents when bases are equal
+- Solve complex index expressions step by step
+- Improve speed and accuracy in quantitative aptitude
+
+
+---
 
 ## 📌 Revision Points
 

@@ -12,7 +12,8 @@ The uploaded PDF contains my handwritten work from different sessions. The main 
 - `Baisc-Quant-2.pdf` — handwritten notes covering cube roots, decimal calculations, important numbers, HCF with decimals, decimal-based practice, and speed factorization
 - `Baisc-Quant-3.pdf` — handwritten notes covering new Basic Quant concepts and practice questions from Part 3.
 - `Basic-Quant-4.pdf` — handwritten notes covering **Fraction-2**, mixed fractions, fraction conversion, addition and subtraction of fractions, whole-number operations with fractions, and fraction-based practice/homework.
-- **File:** `Basic-Quant-5.pdf`
+- `Basic-Quant-5.pdf` — handwritten notes covering **Powers**, basic powers and their values, **Simultaneous Equations**, solving equations with one and two unknowns, elimination and substitution methods, sign rules, and **24 simultaneous-equation practice questions**.
+- `Baisc-Quant-6.pdf` — handwritten notes covering **Laws of Indices**, roots and fractional indices, negative and zero indices, power of a power, solving equations using indices, simplification of exponential expressions, and **30 indices practice questions**.
 ---
 
 ## 📚 Session-Wise Topics
